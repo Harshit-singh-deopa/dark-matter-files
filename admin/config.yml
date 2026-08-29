@@ -1,0 +1,35 @@
+backend:
+  name: github
+  repo: Harshit-singh-deopa/dark-matter-files
+  branch: main
+
+# Where uploaded images get stored in the repo, and the path used to reference them on the live site
+media_folder: "src/static/images"
+public_folder: "/static/images"
+
+collections:
+  - name: "articles"
+    label: "Case Files"
+    folder: "src/content/articles"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "article.njk" }
+      - { label: "Title", name: "title", widget: "string" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "UFO Files", value: "ufo-files" }
+          - { label: "Unsolved Mystery", value: "unsolved-mystery" }
+          - { label: "Paranormal", value: "paranormal" }
+          - { label: "Unexplored Ocean", value: "unexplored-ocean" }
+          - { label: "Space & Time", value: "space-time" }
+          - { label: "Science & Technology", value: "science-tech" }
+      - { label: "Case Number", name: "caseNumber", widget: "string", hint: "e.g. Case #061-A" }
+      - { label: "Date", name: "date", widget: "date" }
+      - { label: "Cover Image", name: "image", widget: "image" }
+      - { label: "Short Summary", name: "summary", widget: "text", hint: "Shown on the category listing card, 1-2 sentences" }
+      - { label: "Article Body", name: "body", widget: "markdown" }

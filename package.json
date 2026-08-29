@@ -1,0 +1,13 @@
+{
+  "name": "dark-matter-files",
+  "version": "1.0.0",
+  "description": "Dark Matter Files — case file archive site",
+  "scripts": {
+    "build": "eleventy --config=eleventy.config.js",
+    "serve": "eleventy --serve --config=eleventy.config.js"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.6"
+  }
+}

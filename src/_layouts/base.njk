@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ title }} — DARK MATTER FILES</title>
+{% if description %}<meta name="description" content="{{ description }}">{% endif %}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Courier+Prime:wght@400;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/site.css">
+{% if accent %}
+<style>
+  :root{
+    --accent: {{ accent }};
+    --accent-dim: {{ accentDim }};
+  }
+</style>
+{% endif %}
+</head>
+<body>
+
+<header class="site-header">
+  <a href="/" class="logo">DARK MATTER FILES</a>
+  <nav class="site-nav">
+    <a href="/#cases">Case Files</a>
+    <a href="/#map">Sightings Map</a>
+    <a href="/#report">Submit a Report</a>
+  </nav>
+</header>
+
+<main>
+  {{ content | safe }}
+</main>
+
+<footer class="site-footer">
+  <div class="foot-links">
+    <a href="/about.html">About</a>
+    <a href="/faq.html">FAQ</a>
+    <a href="/privacy.html">Privacy Policy</a>
+    <a href="/terms.html">Terms &amp; Conditions</a>
+    <a href="/#report">Feedback</a>
+  </div>
+  <div class="copyright">&copy; DARK MATTER FILES — All reports are unverified and preserved as submitted.</div>
+</footer>
+
+</body>
+</html>

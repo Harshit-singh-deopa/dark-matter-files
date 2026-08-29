@@ -1,0 +1,41 @@
+---
+pagination:
+  data: categories
+  size: 1
+  alias: cat
+  addAllPagesToCollections: true
+permalink: "{{ cat.slug }}/index.html"
+layout: base.njk
+eleventyComputed:
+  title: "{{ cat.label }}"
+  accent: "{{ cat.accent }}"
+  accentDim: "{{ cat.accentDim }}"
+  description: "{{ cat.desc }}"
+---
+{% set catArticles = collections.articlesByCategory[cat.slug] %}
+
+<section class="cat-hero">
+  <div class="cat-eyebrow">Case Category</div>
+  <h1 class="cat-title">{{ cat.label }}</h1>
+  <p class="cat-desc">{{ cat.desc }}</p>
+  <div class="cat-count">{{ catArticles.length }} case file{% if catArticles.length != 1 %}s{% endif %} on record</div>
+</section>
+
+{% if catArticles.length > 0 %}
+<div class="article-grid">
+  {% for article in catArticles %}
+  <a class="article-card" href="{{ article.url }}">
+    <div class="thumb" style="background-image:url('{{ article.data.image }}');">
+      <span class="case-num">{{ article.data.caseNumber }}</span>
+    </div>
+    <div class="body">
+      <div class="date">{{ article.data.date | readableDate }}</div>
+      <h3>{{ article.data.title }}</h3>
+      <p>{{ article.data.summary or (article.templateContent | excerpt(140)) }}</p>
+    </div>
+  </a>
+  {% endfor %}
+</div>
+{% else %}
+<div class="empty-state">No case files have been published in this category yet. Check back soon.</div>
+{% endif %}

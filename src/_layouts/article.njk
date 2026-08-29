@@ -1,0 +1,30 @@
+---
+layout: base.njk
+eleventyComputed:
+  title: "{{ title }}"
+  accent: "{{ categoryMap[category].accent }}"
+  accentDim: "{{ categoryMap[category].accentDim }}"
+  description: "{{ summary }}"
+  permalink: "/{{ category }}/{{ page.fileSlug }}/"
+---
+<article>
+  <div class="article-hero" style="background-image:url('{{ image }}');">
+    <div class="article-hero-inner">
+      <div class="case-tag">{{ categoryMap[category].label }} &middot; {{ caseNumber }}</div>
+    </div>
+  </div>
+
+  <div class="article-body">
+    <h1>{{ title }}</h1>
+    <div class="article-meta">
+      <span>{{ date | readableDate }}</span>
+      <span>{{ caseNumber }}</span>
+    </div>
+
+    <div class="article-content">
+      {{ content | safe }}
+    </div>
+
+    <a class="back-link" href="/{{ category }}/">&larr; Back to {{ categoryMap[category].label }}</a>
+  </div>
+</article>
