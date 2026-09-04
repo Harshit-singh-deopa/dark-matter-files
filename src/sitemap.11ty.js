@@ -6,7 +6,7 @@
 //
 // IMPORTANT: update SITE_URL below if your domain changes.
 
-const SITE_URL = "https://dark-matter-files.unsolved.workers.dev";
+const SITE_URL = "https://darkmatterfiles.com";
 
 exports.data = {
   permalink: "/sitemap.xml",
