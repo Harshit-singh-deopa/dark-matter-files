@@ -33,7 +33,9 @@ exports.render = function (data) {
   for (const article of articles) {
     urls.push({
       loc: `${SITE_URL}${article.url}`,
-      lastmod: "2026-08-29"
+      lastmod: article.data.date
+        ? new Date(article.data.date).toISOString().split("T")[0]
+        : undefined,
       priority: "0.7",
     });
   }
