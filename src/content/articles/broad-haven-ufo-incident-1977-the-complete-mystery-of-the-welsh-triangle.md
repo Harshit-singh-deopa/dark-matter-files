@@ -43,7 +43,7 @@ At the same time, the case has never received a universally accepted explanation
 
 That combination — multiple witnesses, government records, disputed drawings and the absence of physical evidence — is what has kept Broad Haven alive as one of Britain's most famous UFO mysteries.
 
-# **\##Where Did the Broad Haven UFO Incident Happen?**
+# **Where Did the Broad Haven UFO Incident Happen?**
 
 Broad Haven is a coastal village in **Pembrokeshire, southwest Wales**.
 
@@ -57,7 +57,7 @@ This eventually produced the name **"Dyfed Triangle"**, although there was never
 
 Historian David Clarke describes the 1977 events as a short-lived but intense UFO "flap" concentrated around the Pembrokeshire coast.
 
-# **\##What Happened on 4 February 1977?**
+# **What Happened on 4 February 1977?**
 
 The central incident occurred at **Broad Haven Primary School** during the children's break.
 
@@ -90,7 +90,7 @@ The reported colour of the light also varies between accounts, with descriptions
 
 These variations matter because later retellings sometimes make the children's descriptions appear more uniform than the surviving material actually shows.
 
-# **\##How Many Children Saw It?**
+# **How Many Children Saw It?**
 
 This is one of the first details that becomes confusing when researching Broad Haven.
 
@@ -154,7 +154,7 @@ This is important because the humanoid claim became increasingly prominent as th
 
 It was not necessarily an equally strong part of every child's original account.
 
-# **\##The Headmaster's Investigation**
+# **The Headmaster's Investigation**
 
 The school's headmaster in 1977 was **Ralph Llewellyn**.
 
@@ -241,7 +241,7 @@ Pugh's involvement helped transform what might otherwise have remained a local s
 
 Contemporary UFO publications also recorded the Broad Haven reports while the wider Welsh flap was still occurring.
 
-# **\##The Story Reaches the Police**
+# **The Story Reaches the Police**
 
 The incident did not remain purely within UFO research circles.
 
@@ -253,7 +253,7 @@ The UK National Archives confirms that surviving Ministry of Defence UFO records
 
 For 1977, the key surviving collection includes **DEFE 24/1206**, covering UFO reports and correspondence from that year.
 
-# **\##What Did the British Ministry of Defence Think?**
+# **What Did the British Ministry of Defence Think?**
 
 This is one of the most fascinating parts of the case.
 
@@ -275,7 +275,7 @@ The Ministry of Defence's primary concern was defence and aviation security.
 
 The National Archives explains that a British "UFO" record generally referred to something observed but not identified — not necessarily an alien spacecraft.
 
-# **\##The RAF Police and the "Practical Joker" Theory**
+# **The RAF Police and the "Practical Joker" Theory**
 
 One of the strongest skeptical explanations emerged from the official investigation.
 
@@ -293,7 +293,7 @@ Therefore, someone walking through the countryside wearing industrial protective
 
 This explanation has considerably more historical weight than some later internet theories because it appears in the contemporary official discussion.
 
-# **\##The Glyn Edwards Confession**
+# **The Glyn Edwards Confession**
 
 Nearly two decades later, another important development occurred.
 
@@ -317,7 +317,7 @@ Therefore:
 
 **Glyn Edwards' confession may explain part of the wider UFO wave, but it does not conclusively solve the main school sighting.**
 
-# **\##The February 17 School Incident**
+# **The February 17 School Incident**
 
 The Broad Haven story did not end on 4 February.
 
@@ -335,7 +335,7 @@ This later sighting is important historically because it meant the Broad Haven s
 
 However, it is still eyewitness testimony rather than photographic or instrument-based evidence.
 
-# **\##The Broad Haven Triangle Becomes the Dyfed Triangle**
+# **The Broad Haven Triangle Becomes the Dyfed Triangle**
 
 By this point, UFO reports were being received from locations throughout the surrounding area.
 
@@ -357,7 +357,7 @@ It was essentially a media and UFO-research label for an area where a relatively
 
 David Clarke notes that the wider flap extended beyond the school itself and included reports around places such as Ripperston Farm and Little Haven.
 
-# **\##The Ripperston Farm Reports**
+# **The Ripperston Farm Reports**
 
 One of the most important locations in the wider mystery was **Ripperston Farm**.
 
@@ -385,7 +385,7 @@ However, they should not be treated as independent proof of the Broad Haven scho
 
 They involved different witnesses, different locations and different circumstances.
 
-# **\##The Haven Fort Hotel Incident**
+# **The Haven Fort Hotel Incident**
 
 Another major report came from **Rosa/Rose Granville**, associated with the Haven Fort Hotel at Little Haven.
 
@@ -401,7 +401,7 @@ The MOD subsequently became involved in the wider Welsh reports.
 
 David Clarke's later archival research places this event firmly on 19 April 1977 and notes that some later retellings have incorrectly placed it earlier in the sequence.
 
-# **\##What Did the Government Tell Parliament?**
+# **What Did the Government Tell Parliament?**
 
 Despite the secretive inquiry, the public government position was restrained.
 
@@ -417,7 +417,7 @@ This does not necessarily demonstrate a government cover-up.
 
 A more conservative interpretation is that officials wanted to assess whether there was a genuine defence or aviation issue without publicly giving the UFO reports additional publicity.
 
-# **\##Was There a Government Cover-Up?**
+# **Was There a Government Cover-Up?**
 
 This is one of the most controversial questions surrounding Broad Haven.
 
@@ -437,7 +437,7 @@ They do not demonstrate extraterrestrial knowledge.
 
 That distinction is essential.
 
-# **\##The Military-Technology Theory**
+# **The Military-Technology Theory**
 
 Another popular explanation is that the witnesses saw some kind of experimental military aircraft.
 
@@ -451,7 +451,7 @@ There is, however, no publicly established evidence identifying a particular sec
 
 Historian David Clarke notes that journalist Hugh Turnbull, who followed the story locally, believed something military might have been involved.
 
-# **\##The Harrier Jet Theory**
+# **The Harrier Jet Theory**
 
 A later explanation suggested that some sightings could have involved **Hawker Harrier aircraft**.
 
@@ -465,7 +465,7 @@ In particular, it does not automatically explain the children's description of a
 
 Therefore, the Harrier explanation remains a possible explanation for **some reports**, rather than a demonstrated solution to the entire Welsh Triangle.
 
-# **\##The Oil-Refinery Protective-Suit Theory**
+# **The Oil-Refinery Protective-Suit Theory**
 
 This theory specifically addresses the mysterious humanoid figures.
 
@@ -481,7 +481,7 @@ This combination makes it reasonably plausible that **at least some of the "silv
 
 But again, it does not prove that the schoolchildren's object was a prank.
 
-# **\##The Sewage-Tanker / Farm-Machinery Theory**
+# **The Sewage-Tanker / Farm-Machinery Theory**
 
 One of the more mundane explanations proposed for the school incident is that the children misidentified an ordinary vehicle or piece of equipment.
 
@@ -493,7 +493,7 @@ There is no definitive evidence showing that a specific tanker or machine was ac
 
 Therefore this remains a **possible identification**, not a proven solution.
 
-# **\##The Science-Fiction Influence Theory**
+# **The Science-Fiction Influence Theory**
 
 Another possibility is that popular culture influenced what the children remembered.
 
@@ -511,7 +511,7 @@ If someone sees something unfamiliar, the brain often interprets it using famili
 
 A strange object could therefore become a "flying saucer" in a person's memory because that was the cultural language available to describe it.
 
-# **\##The Social-Contagion Theory**
+# **The Social-Contagion Theory**
 
 This is probably one of the strongest psychological explanations.
 
@@ -531,7 +531,7 @@ That does not prove contamination occurred.
 
 But it means the possibility cannot be excluded.
 
-# **\##The "Children Wouldn't All Lie" Argument**
+# **The "Children Wouldn't All Lie" Argument**
 
 Supporters of the case often make a simple argument:
 
@@ -555,7 +555,7 @@ They can also influence one another's memories.
 
 Therefore, sincerity and extraterrestrial origin are two completely different questions.
 
-# **\##The "Mass Hallucination" Theory**
+# **The "Mass Hallucination" Theory**
 
 Some people have suggested that the children experienced a collective hallucination.
 
@@ -574,7 +574,7 @@ A more realistic psychological explanation would involve:
 
 In other words, **misidentification plus social reinforcement** is a more plausible skeptical model than a literal shared hallucination.
 
-# **\##The Extraterrestrial Hypothesis**
+# **The Extraterrestrial Hypothesis**
 
 Of course, the most famous theory is that the children saw an extraterrestrial spacecraft.
 
@@ -604,7 +604,7 @@ No photograph clearly showing the craft exists.
 
 Therefore, extraterrestrial origin remains a **hypothesis rather than an established fact**.
 
-# **\##The Alien Underground-Base Theory**
+# **The Alien Underground-Base Theory**
 
 One of the more extreme theories suggested that extraterrestrial beings had established an underground or underwater base in the region.
 
@@ -616,7 +616,7 @@ However, there is no verified evidence of an extraterrestrial base beneath Pembr
 
 This belongs firmly in the category of speculative UFO folklore rather than documented history.
 
-# **\##The Welsh Folklore Theory**
+# **The Welsh Folklore Theory**
 
 An unusual interpretation developed around the wider Dyfed Triangle.
 
@@ -630,7 +630,7 @@ This became particularly prominent in later documentaries examining the Broad Ha
 
 Netflix's *Encounters*, for example, explicitly explored similarities between the UFO reports and Welsh/Celtic folklore.
 
-# **\##Did Anyone Photograph the UFO?**
+# **Did Anyone Photograph the UFO?**
 
 This is one of the biggest weaknesses in the Broad Haven case.
 
@@ -651,7 +651,7 @@ This distinction is extremely important for anyone writing about the case.
 
 **A photograph of a witness or a newspaper containing a UFO story is not a photograph of the UFO.**
 
-# **\##Was There Any Physical Evidence?**
+# **Was There Any Physical Evidence?**
 
 No physical evidence conclusively connected to the school sighting has been established.
 
@@ -671,7 +671,7 @@ Some later reports in the wider Dyfed Triangle included claims of disturbed grou
 
 But these reports should not be confused with independently verified scientific evidence.
 
-# **\##Was There Radar Evidence?**
+# **Was There Radar Evidence?**
 
 There is no publicly established radar recording conclusively demonstrating that an unidentified spacecraft was present during the Broad Haven school sighting.
 
@@ -683,7 +683,7 @@ Broad Haven's primary evidence remains:
 
 It is not a sensor-confirmed UFO case.
 
-# **\##What Happened to the Children?**
+# **What Happened to the Children?**
 
 The children grew up and most eventually disappeared from public attention.
 
@@ -709,7 +709,7 @@ The first claim requires only eyewitness testimony.
 
 The second requires considerably stronger evidence.
 
-# **\##Did Any Witness Ever Admit It Was Fake?**
+# **Did Any Witness Ever Admit It Was Fake?**
 
 No schoolchild has produced a credible confession proving that the entire school incident was fabricated.
 
@@ -729,7 +729,7 @@ The existence of one prank does not automatically make every report fraudulent.
 
 But it does demonstrate that at least part of the broader mystery had a human source.
 
-# **\##Why Did the Case Become So Famous?**
+# **Why Did the Case Become So Famous?**
 
 Several things happened almost perfectly for a UFO legend to develop.
 
@@ -753,7 +753,7 @@ Each new element strengthened the mythology surrounding the original incident.
 
 The result was a story that became much larger than the original school sighting.
 
-# **\##The Role of the Media**
+# **The Role of the Media**
 
 The media played a major role.
 
@@ -773,7 +773,7 @@ Someone who sees an ordinary aircraft after hearing about a UFO may be more like
 
 That phenomenon can cause a cluster of reports to develop around a single original story.
 
-# **\##The 1977 Cultural Background**
+# **The 1977 Cultural Background**
 
 Broad Haven happened during an era when UFOs were already deeply embedded in popular culture.
 
@@ -789,7 +789,7 @@ More importantly, UFO stories were already circulating internationally before Br
 
 David Clarke has suggested that the immediate influence on some Welsh children's reports may have been other contemporary UFO stories rather than later films.
 
-# **\##What Was the "Dyfed Triangle"?**
+# **What Was the "Dyfed Triangle"?**
 
 The Dyfed Triangle was not an official government designation.
 
@@ -817,7 +817,7 @@ Some involved unusual activity around farms.
 
 This is why researchers debate whether these reports should really be considered one phenomenon.
 
-# **\##The Case of Ripperston Farm and the Silver Figure**
+# **The Case of Ripperston Farm and the Silver Figure**
 
 The Ripperston Farm reports deserve special attention because they helped cement the image of mysterious "silver men" in the public imagination.
 
@@ -833,7 +833,7 @@ This does not prove the figure was extraterrestrial.
 
 It does, however, show that the wider Welsh UFO story involved genuine reports made by people who apparently believed something unusual had happened to them.
 
-# **\##What Did Skeptics Think?**
+# **What Did Skeptics Think?**
 
 Skeptical explanations generally fall into several categories.
 
@@ -869,7 +869,7 @@ These explanations do not necessarily have to be mutually exclusive.
 
 The entire Dyfed Triangle could have been a mixture of unrelated events.
 
-# **\##What Do UFO Researchers Think?**
+# **What Do UFO Researchers Think?**
 
 UFO researchers have generally emphasized the number of witnesses and the apparent consistency of the central object description.
 
@@ -884,7 +884,7 @@ The most interesting arguments include:
 
 From this perspective, the case demonstrates that something genuinely unusual may have been observed, even if its identity remains unknown.
 
-# **\##The Biggest Problem for the UFO Explanation**
+# **The Biggest Problem for the UFO Explanation**
 
 The central problem is the lack of hard evidence.
 
@@ -902,7 +902,7 @@ That is enough to establish that the event was historically reported.
 
 It is not enough to establish extraterrestrial visitation.
 
-# **\##The Biggest Problem for the Skeptical Explanation**
+# **The Biggest Problem for the Skeptical Explanation**
 
 The skeptical side also has weaknesses.
 
@@ -920,7 +920,7 @@ A more accurate conclusion is:
 
 **Some elements have plausible conventional explanations, while the central object remains unidentified.**
 
-# **\##What Is the Most Likely Explanation?**
+# **What Is the Most Likely Explanation?**
 
 There is no scientifically proven answer.
 
@@ -950,7 +950,7 @@ The testimony leaves the central object unidentified.
 
 Possible in the broad philosophical sense, but **there is currently no physical evidence establishing it.**
 
-# **\##Why Has the Case Never Been Fully Solved?**
+# **Why Has the Case Never Been Fully Solved?**
 
 The incident happened nearly half a century ago.
 
@@ -969,7 +969,7 @@ The evidence that would be most useful today simply does not exist.
 
 That is why Broad Haven remains difficult to resolve.
 
-# **\##What We Can Say With Confidence**
+# **What We Can Say With Confidence**
 
 The following points are relatively secure historically:
 
@@ -999,7 +999,7 @@ The following points are relatively secure historically:
 
 **13.** No authenticated physical extraterrestrial evidence has emerged from the case.
 
-# **\##What We Cannot Say With Confidence**
+# **What We Cannot Say With Confidence**
 
 We cannot honestly claim that:
 
