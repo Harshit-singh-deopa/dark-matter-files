@@ -3,6 +3,7 @@ layout: article.njk
 title: "Mihal Grameno UFO Sighting of 1907: The Mysterious Object Seen in Albania"
 category: ufo-files
 caseNumber: Mihal Grameno UFO Case
+publisheddate: 2026-09-06
 image: /static/images/mihal_grameno_ufo_sighting_collage_2k_202609051946-1-.jpg
 summary: >-
   The Mihal Grameno UFO case is a mysterious historical account from around 1907
@@ -12,6 +13,10 @@ summary: >-
 
   The incident is often described as Albania's earliest documented UFO account, but the original description does not establish that the object was extraterrestrial. Its exact location, appearance, distance and identity remain unknown, leaving possibilities ranging from a conventional object or atmospheric phenomenon to something genuinely unexplained.
 ---
+### **Image Disclaimer**
+
+**AI-Generated Illustrations:**images used in our articles are **AI-generated illustrations created for visual and educational purposes**. They are intended to represent or recreate the people, locations, events, objects, or scenes discussed in the article and **should not be considered authentic photographs, original evidence, or official documentation of the case**. Where original photographs or copyrighted material exist, we may use AI-generated illustrations instead to avoid unauthorized use of copyrighted images. These illustrations are created based on publicly available descriptions, historical records, reports, and other information related to the case.
+
 ## **The Strange Account from the Albanian Mountains**
 
 More than a century before UFOs became a familiar part of popular culture, an Albanian writer and freedom fighter recorded an unusual sight in the mountains.
@@ -588,8 +593,6 @@ This is a useful Albanian-language news source for seeing how the Grameno accoun
 [Telegrafi — Mihal Grameno and the early Albanian UFO account](https://telegrafi.com/mihal-grameno-e-luftetaret-e-cerciz-topullit-kishin-pare-ufo-t-e-para-ne-shqiperi/?utm_source=chatgpt.com)
 
 This article reproduces the commonly cited Albanian passage and provides additional context about how the case has been interpreted.
-
-
 
 # **Keywords**
 
