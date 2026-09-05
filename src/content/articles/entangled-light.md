@@ -1,11 +1,13 @@
 ---
 layout: article.njk
-title: "Entangled Light"
+title: Entangled Light
 category: science-tech
-caseNumber: "Case #024-Q"
+caseNumber: Entangled Light
+publisheddate: 2026-08-24
+summary: Scientists use precisely controlled lasers, mirrors, beam splitters,
+  detectors, and optical components to create and manipulate entangled photons.
 date: 2022-01-01
 image: /static/images/entangled-light.jpg
-summary: "Scientists use precisely controlled lasers, mirrors, beam splitters, detectors, and optical components to create and manipulate entangled photons."
 ---
 
 Scientists use precisely controlled lasers, mirrors, beam splitters, detectors, and optical components to create and manipulate entangled photons — the working basis of quantum teleportation.
