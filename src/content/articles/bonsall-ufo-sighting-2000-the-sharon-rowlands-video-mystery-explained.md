@@ -3,6 +3,7 @@ layout: article.njk
 title: "Bonsall UFO Sighting 2000: The Sharon Rowlands Video Mystery Explained"
 category: ufo-files
 caseNumber: The Bonsall UFO
+publisheddate: 2026-08-31
 image: /static/images/woman_investigates_ufo_sighting_…_202609031449.jpg
 summary: The Bonsall UFO sighting of 2000 is one of Britain's better-known UFO
   video cases. On 5 October 2000, Derbyshire resident Sharon Rowlands recorded a
@@ -13,6 +14,10 @@ summary: The Bonsall UFO sighting of 2000 is one of Britain's better-known UFO
   another conventional light source. Despite decades of discussion, the true
   identity of the object remains disputed.
 ---
+### **Image Disclaimer**
+
+**AI-Generated Illustrations:**images used in our articles are **AI-generated illustrations created for visual and educational purposes**. They are intended to represent or recreate the people, locations, events, objects, or scenes discussed in the article and **should not be considered authentic photographs, original evidence, or official documentation of the case**. Where original photographs or copyrighted material exist, we may use AI-generated illustrations instead to avoid unauthorized use of copyrighted images. These illustrations are created based on publicly available descriptions, historical records, reports, and other information related to the case.
+
 # **Bonsall UFO Sighting: The Sharon Rowlands Video Mystery of 2000**
 
 **SEO Title:**
