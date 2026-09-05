@@ -31,13 +31,13 @@ collections:
           - { label: "Science & Technology", value: "science-tech" }
       - { label: "Case Number", name: "caseNumber", widget: "string", hint: "e.g. Case #061-A" }
       - label: "Incident Date"
-        name: "date"
+        name: "incidentdate"
         widget: "datetime"
         format: "YYYY-MM-DD"
         date_format: "YYYY-MM-DD"
         time_format: false
       - label: "Published Date"
-        name: "date"
+        name: "publisheddate"
         widget: "datetime"
         format: "YYYY-MM-DD"
         date_format: "YYYY-MM-DD"
