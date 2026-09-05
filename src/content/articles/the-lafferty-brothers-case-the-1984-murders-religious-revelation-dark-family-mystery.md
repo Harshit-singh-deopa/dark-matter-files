@@ -4,6 +4,7 @@ title: "The Lafferty Brothers Case: The 1984 Murders, Religious Revelation &
   Dark Family Mystery"
 category: paranormal
 caseNumber: Lafferty Murders 1984
+publisheddate: 2026-08-28
 image: /static/images/cult.png
 summary: >
   ## **Lafferty Brothers Murders — 1984**
@@ -11,6 +12,10 @@ summary: >
 
   The **Lafferty Brothers case** was a shocking double murder in American Fork, Utah, on **July 24, 1984**. Brothers **Ron and Dan Lafferty** murdered **24-year-old Brenda Lafferty and her 15-month-old daughter, Erica**. Ron claimed he had received a divine revelation ordering their “removal,” while investigators and prosecutors also linked the killings to personal resentment and his radical religious beliefs. Both brothers were convicted; **Ron was sentenced to death and died in prison in 2019**, while **Dan received life imprisonment**.
 ---
+### **Image Disclaimer**
+
+**AI-Generated Illustrations:**images used in our articles are **AI-generated illustrations created for visual and educational purposes**. They are intended to represent or recreate the people, locations, events, objects, or scenes discussed in the article and **should not be considered authentic photographs, original evidence, or official documentation of the case**. Where original photographs or copyrighted material exist, we may use AI-generated illustrations instead to avoid unauthorized use of copyrighted images. These illustrations are created based on publicly available descriptions, historical records, reports, and other information related to the case.
+
 # **The Lafferty Brothers Murders: The Complete Story of the 1984 Utah Case**
 
 ## **Case Overview**
@@ -797,8 +802,6 @@ For the strongest factual source, use the actual court decisions.
 
 [Utah Supreme Court — State v. Lafferty, 20 P.3d 342](https://case-law.vlex.com/vid/state-v-lafferty-no-885991006?utm_source=chatgpt.com)
 
-
-
 ✅ **"The Lafferty Brothers and the School of the Prophets"**
 
 ✅ **"Ron Lafferty Claimed a Divine Revelation Ordered the Murders"**
@@ -833,4 +836,4 @@ The case became famous through books and television, but the most important fact
 
 The murders were solved, the perpetrators were convicted, and the court record provides a substantial factual account. What remains debated is how much weight should be given to religion, personal revenge, psychological illness and Ron's claimed revelations when explaining why the crime happened.
 
-DateEvent**July 19, 1960**Brenda Wright is born**April 22, 1982**Brenda marries Allen Lafferty**1982–1983**Ron becomes increasingly influenced by Dan's fundamentalist beliefs**1983**Ron and Dan are excommunicated from the mainstream LDS Church**1983**Ron's wife Diana divorces him and moves to Florida with their children**Early 1984**Ron claims increasingly intense religious revelations**March 13, 1984**Ron claims another revelation concerning an "instrument"**Spring 1984**Ron claims the "removal revelation" naming four people**July 24, 1984**Brenda and Erica are murdered**July 24, 1984**Ron and Dan attempt to reach Chloe Low and later Richard Stowe**July 30, 1984**Charles Carnes and Ricky Knapp are arrested**August 17, 1984**Ron and Dan are arrested in Reno, Nevada**December 29, 1984**Ron attempts suicide in jail**January 1985**Dan is convicted and receives two life sentences**April–May 1985**Ron's first trial**May 7, 1985**Ron is convicted and sentenced to death**January 11, 1988**Utah Supreme Court affirms Ron's conviction**December 1991**Tenth Circuit orders new trial because of competency issue**November 1992**Ron is found incompetent at a later competency hearing**1994**Ron's competency is eventually restored**April 1996**Ron is retried and convicted again**April 16, 1996**Ron receives another death sentence**February 2001**Utah Supreme Court affirms retrial conviction**November 13, 2001**U.S. Supreme Court denies review**2003**Jon Krakauer publishes *Under the Banner of Heaven***2004**Deseret News publishes major anniversary interview with Dan**2015**Dan publicly discusses his influence on the Strack family**August 2019**Tenth Circuit rejects Ron's latest appeal**November 11, 2019**Ron dies of natural causes in prison**2022***Under the Banner of Heaven* television series premieres**2025**Dan's daughter Rebecca Lafferty publishes accounts of growing up with the legacy of the crime
+DateEvent**July 19, 1960**Brenda Wright is born**April 22, 1982**Brenda marries Allen Lafferty**1982–1983**Ron becomes increasingly influenced by Dan's fundamentalist beliefs**1983**Ron and Dan are excommunicated from the mainstream LDS Church**1983**Ron's wife Diana divorces him and moves to Florida with their children**Early 1984**Ron claims increasingly intense religious revelations**March 13, 1984**Ron claims another revelation concerning an "instrument"**Spring 1984**Ron claims the "removal revelation" naming four people**July 24, 1984**Brenda and Erica are murdered**July 24, 1984**Ron and Dan attempt to reach Chloe Low and later Richard Stowe**July 30, 1984**Charles Carnes and Ricky Knapp are arrested**August 17, 1984**Ron and Dan are arrested in Reno, Nevada**December 29, 1984**Ron attempts suicide in jail**January 1985**Dan is convicted and receives two life sentences**April–May 1985**Ron's first trial**May 7, 1985**Ron is convicted and sentenced to death**January 11, 1988**Utah Supreme Court affirms Ron's conviction**December 1991**Tenth Circuit orders new trial because of competency issue**November 1992**Ron is found incompetent at a later competency hearing**1994**Ron's competency is eventually restored**April 1996**Ron is retried and convicted again**April 16, 1996**Ron receives another death sentence**February 2001**Utah Supreme Court affirms retrial conviction**November 13, 2001**U.S. Supreme Court denies review**2003**Jon Krakauer publishes *Under the Banner of Heaven**\*2004**Deseret News publishes major anniversary interview with Dan**2015**Dan publicly discusses his influence on the Strack family**August 2019**Tenth Circuit rejects Ron's latest appeal**November 11, 2019**Ron dies of natural causes in prison**2022***Under the Banner of Heaven* television series premieres**2025**Dan's daughter Rebecca Lafferty publishes accounts of growing up with the legacy of the crime
