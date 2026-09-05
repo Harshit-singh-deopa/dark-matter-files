@@ -103,6 +103,17 @@ module.exports = function (eleventyConfig) {
     return plain.length > len ? plain.slice(0, len).trim() + "…" : plain;
   });
 
+  // Prevents multiple <h1> tags on a page: shifts every heading found
+  // inside an article's body down one level (h1->h2, h2->h3, etc.),
+  // so the page's own title stays the only real <h1>.
+  eleventyConfig.addFilter("demoteHeadings", (html) => {
+    if (!html) return html;
+    return html.replace(/<(\/?)h([1-6])(\s[^>]*)?>/gi, (match, slash, level, attrs) => {
+      const newLevel = Math.min(6, parseInt(level, 10) + 1);
+      return `<${slash}h${newLevel}${attrs || ""}>`;
+    });
+  });
+  
   return {
     dir: {
       input: "src",
