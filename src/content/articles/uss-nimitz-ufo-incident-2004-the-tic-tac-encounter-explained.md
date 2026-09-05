@@ -3,6 +3,7 @@ layout: article.njk
 title: "USS Nimitz UFO Incident 2004: The Tic Tac Encounter Explained"
 category: ufo-files
 caseNumber: Tic Tac UFO Incident
+publisheddate: 2026-08-31
 image: /static/images/uss_nimitz_ufo_incident_investig…_202609031504.jpg
 summary: The USS Nimitz Tic Tac UFO incident occurred in November 2004 during a
   U.S. Navy training exercise off Southern California. Navy personnel reported
@@ -13,6 +14,10 @@ summary: The USS Nimitz Tic Tac UFO incident occurred in November 2004 during a
   aircraft or sensor phenomenon to an extraterrestrial spacecraft, but the
   available evidence has never established the object's true identity.
 ---
+### **Image Disclaimer**
+
+**AI-Generated Illustrations:**images used in our articles are **AI-generated illustrations created for visual and educational purposes**. They are intended to represent or recreate the people, locations, events, objects, or scenes discussed in the article and **should not be considered authentic photographs, original evidence, or official documentation of the case**. Where original photographs or copyrighted material exist, we may use AI-generated illustrations instead to avoid unauthorized use of copyrighted images. These illustrations are created based on publicly available descriptions, historical records, reports, and other information related to the case.
+
 # **Quick Facts**
 
 # **Introduction**
@@ -1052,7 +1057,5 @@ The report is particularly useful for your article's final section because it ex
 **Keywords**
 
 `USS Nimitz UFOUSS Nimitz Tic TacTic Tac UFO 20042004 UFO incidentNimitz UFO incidentDavid Fravor UFOAlex Dietrich UFOChad Underwood FLIR videoUSS Princeton UFOFLIR1 UFO videoNavy Tic Tac UFONimitz UAP incident2004 Navy UFO sighting`
-
-
 
 DetailInformation**Case**USS Nimitz “Tic Tac” encounter**Date of principal encounter**November 14, 2004**Broader period**November 2004**Location**Pacific Ocean, off Southern California / near the U.S.-Mexico training area**Military unit**USS Nimitz Carrier Strike Group 11**Other major ship**USS Princeton**Aircraft**F/A-18F Super Hornets**Main visual witnesses**David Fravor, Alex Dietrich and other aircrew**Radar witness frequently cited**Kevin Day**Later FLIR recording**Recorded by an F/A-18 crew associated with Chad Underwood**Object nickname**“Tic Tac”**Video officially released by DoD**April 27, 2020**Physical evidence**None publicly available**Confirmed extraterrestrial origin?**No**Current status**Unidentified / disputed
