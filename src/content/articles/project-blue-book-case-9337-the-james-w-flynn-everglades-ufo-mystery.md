@@ -3,6 +3,7 @@ layout: article.njk
 title: "Project Blue Book Case 9337: The James W. Flynn Everglades UFO Mystery"
 category: ufo-files
 caseNumber: The 1965 Everglades UFO Encounter
+publisheddate: 2026-08-31
 image: /static/images/chatgpt-image-sep-2-2026-08_22_44-pm-1-.png
 summary: "Project Blue Book Case 9337 concerns James W. Flynn's reported 1965
   UFO encounter in Florida's Everglades. Flynn described a large
@@ -12,6 +13,10 @@ summary: "Project Blue Book Case 9337 concerns James W. Flynn's reported 1965
   injuries were documented, no evidence has conclusively established that the
   object was extraterrestrial. "
 ---
+### **Image Disclaimer**
+
+**AI-Generated Illustrations:**images used in our articles are **AI-generated illustrations created for visual and educational purposes**. They are intended to represent or recreate the people, locations, events, objects, or scenes discussed in the article and **should not be considered authentic photographs, original evidence, or official documentation of the case**. Where original photographs or copyrighted material exist, we may use AI-generated illustrations instead to avoid unauthorized use of copyrighted images. These illustrations are created based on publicly available descriptions, historical records, reports, and other information related to the case.
+
 # **Quick Facts**
 
 Project Blue Book was the U.S. Air Force's official UFO investigation program. The National Archives states that its records were transferred to the Archives after the project ended in 1969 and that the records are available for research.
@@ -1098,8 +1103,6 @@ This historical document contains the discussion of the Flynn case and the medic
 A digitized September 1965 issue of *Fate* contains a contemporary-era account of the Flynn incident.
 
 [Fate Magazine — September 1965 Historical Issue](https://iapsop.com/archive/materials/fate_magazine/fate_v18_n9_sep_1965.pdf?utm_source=chatgpt.com)
-
-
 
 **Project Blue Book Case 9337, James W. Flynn UFO, James Flynn Everglades UFO, 1965 Everglades UFO, Project Blue Book files, UFO Case 9337, Florida UFO case, James Flynn incident, Everglades UFO encounter, 1965 UFO mystery, Project Blue Book Case 9337 explained, UFO physical effects**
 
