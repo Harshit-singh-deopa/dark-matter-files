@@ -22,7 +22,7 @@ eleventyComputed:
     </div>
 
     <div class="article-content">
-      {{ content | safe }}
+      {{ content | demoteHeadings | safe }}
     </div>
 
     <a class="back-link" href="/{{ category }}/">&larr; Back to {{ categoryMap[category].label }}</a>
