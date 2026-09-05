@@ -3,6 +3,7 @@ layout: article.njk
 title: "Harbour Mille UFO Incident 2010: The Mystery of the Missile-Like Objects"
 category: ufo-files
 caseNumber: Harbour Mille UFO Sighting 2010
+publisheddate: 2026-09-01
 image: /static/images/harbour_mille_ufo_incident_collage_202609041210.jpg
 summary: The Harbour Mille UFO Incident occurred on January 25, 2010, when
   residents of a small Newfoundland community reported seeing several strange,
@@ -14,6 +15,10 @@ summary: The Harbour Mille UFO Incident occurred on January 25, 2010, when
   explanation is that aircraft and their sunlit vapour trails created the
   strange appearance, but some witnesses remained unconvinced.
 ---
+### **Image Disclaimer**
+
+**AI-Generated Illustrations:**images used in our articles are **AI-generated illustrations created for visual and educational purposes**. They are intended to represent or recreate the people, locations, events, objects, or scenes discussed in the article and **should not be considered authentic photographs, original evidence, or official documentation of the case**. Where original photographs or copyrighted material exist, we may use AI-generated illustrations instead to avoid unauthorized use of copyrighted images. These illustrations are created based on publicly available descriptions, historical records, reports, and other information related to the case.
+
 # **The Harbour Mille Incident at a Glance**
 
 On the evening of **January 25, 2010**, residents of the small Newfoundland and Labrador community of **Harbour Mille** reported seeing unusual objects moving through the sky over or near the Atlantic Ocean.
@@ -923,10 +928,6 @@ Useful as a secondary case-reference database for comparing the Harbour Mille in
 
 [UAP Archive — Harbour Mille case entry](https://uaparchive.org/encounters?utm_source=chatgpt.com)
 
-
-
 **AI-generated historical reconstruction of the 2010 Harbour Mille UFO incident in Newfoundland and Labrador. The image is illustrative and is not an authentic photograph of the event.**
-
-
 
 **s:**Harbour Mille UFO, Harbour Mille UFO incident 2010, Harbour Mille UFO sighting, Newfoundland UFO, Newfoundland UFO 2010, Harbour Mille missile mystery, Darlene Stewart UFO photo, Harbour Mille incident, Newfoundland mysterious object, Canada UFO sightings, Harbour Mille missile, UFO Newfoundland Canada, 2010 UFO sighting, missile-like object Newfoundland
