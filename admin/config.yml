@@ -32,9 +32,10 @@ collections:
       - { label: "Case Number", name: "caseNumber", widget: "string", hint: "e.g. Case #061-A" }
       - label: "Date"
         name: "date"
-        widget: "date"
+        widget: "datetime"
         format: "YYYY-MM-DD"
         date_format: "YYYY-MM-DD"
+        time_format: false
       - { label: "Cover Image", name: "image", widget: "image" }
       - { label: "Short Summary", name: "summary", widget: "text", hint: "Shown on the category listing card, 1-2 sentences" }
       - { label: "Article Body", name: "body", widget: "markdown" }
