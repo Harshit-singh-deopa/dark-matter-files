@@ -1,12 +1,19 @@
 ---
 layout: article.njk
-title: "Lights Over Millbrook"
+title: Lights Over Millbrook
 category: ufo-files
 caseNumber: "Case #061-A"
+publisheddate: 2026-08-25
+summary: Nineteen residents of a small farming town reported synchronized aerial
+  lights hovering for over an hour before vanishing without sound.
 date: 1961-08-14
 image: /static/images/millbrook-lights.jpg
-summary: "Nineteen residents of a small farming town reported synchronized aerial lights hovering for over an hour before vanishing without sound."
 ---
+### **Image Disclaimer**
+
+**AI-Generated Illustrations:**images used in our articles are **AI-generated illustrations created for visual and educational purposes**. They are intended to represent or recreate the people, locations, events, objects, or scenes discussed in the article and **should not be considered authentic photographs, original evidence, or official documentation of the case**. Where original photographs or copyrighted material exist, we may use AI-generated illustrations instead to avoid unauthorized use of copyrighted images. These illustrations are created based on publicly available descriptions, historical records, reports, and other information related to the case.
+
+
 
 Nineteen residents of a small farming town reported synchronized aerial lights hovering for over an hour before vanishing without sound. The event began shortly after dusk, when several families reported a series of stationary lights arranged in a loose triangle above the northern treeline.
 
