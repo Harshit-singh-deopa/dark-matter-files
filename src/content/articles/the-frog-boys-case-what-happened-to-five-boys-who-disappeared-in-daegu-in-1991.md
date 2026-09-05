@@ -4,6 +4,7 @@ title: "The Frog Boys Case: What Happened to Five Boys Who Disappeared in Daegu
   in 1991?"
 category: unsolved-mystery
 caseNumber: The Frog Boys Case
+publisheddate: 2026-08-27
 image: /static/images/frog-boys-case-1-.png
 summary: >
   # The Frog Boys Case: The Unsolved Daegu Mystery
@@ -23,6 +24,10 @@ summary: >
 
   Frog Boys case, Frog Boys incident, Daegu Frog Boys, Frog Boys 1991, Waryong Mountain mystery, South Korea unsolved cases, Frog Boys disappearance, Frog Boys murder case
 ---
+### **Image Disclaimer**
+
+**AI-Generated Illustrations:**images used in our articles are **AI-generated illustrations created for visual and educational purposes**. They are intended to represent or recreate the people, locations, events, objects, or scenes discussed in the article and **should not be considered authentic photographs, original evidence, or official documentation of the case**. Where original photographs or copyrighted material exist, we may use AI-generated illustrations instead to avoid unauthorized use of copyrighted images. These illustrations are created based on publicly available descriptions, historical records, reports, and other information related to the case.
+
 # The Frog Boys Case: The 1991 Daegu Mystery That Remains Unsolved
 
 ## **Introduction**
