@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: Harshit-singh-deopa/dark-matter-files
-  branch: main
+  branch: mainhttps://github.com/Harshit-singh-deopa/dark-matter-files/tree/main
   base_url: https://dark-matter-files-auth.unsolved.workers.dev
 
 # Where uploaded images get stored in the repo, and the path used to reference them on the live site
@@ -35,7 +35,7 @@ collections:
         widget: "datetime"
         format: "YYYY-MM-DD"
         date_format: "YYYY-MM-DD"
-        time_format: "HH:mm"
+        time_format: false
       - { label: "Cover Image", name: "image", widget: "image" }
       - { label: "Short Summary", name: "summary", widget: "text", hint: "Shown on the category listing card, 1-2 sentences" }
       - { label: "Article Body", name: "body", widget: "markdown" }
