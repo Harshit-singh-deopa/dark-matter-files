@@ -1,9 +1,10 @@
 ---
+incidentdate: 1975-09-24
 layout: article.njk
 title: "Anneliese Michel Exorcism Case: What Really Happened in 1976?"
 category: paranormal
-caseNumber: Anneliese Michel Exorcism
-incidentdate: 1975-09-24
+publisheddate: 2026-08-23
+image: /static/images/anneliese-michel.jpg
 summary: >-
   Anneliese Michel was a young German woman from Klingenberg am Main who
   developed serious neurological and psychiatric problems during her teenage
@@ -16,9 +17,12 @@ summary: >-
 
   The case remains controversial because recordings of the exorcisms survive, witnesses described dramatic behavior, and the priests remained convinced that Anneliese had been possessed. However, there is no scientifically verified evidence that a demon caused her symptoms. The case is therefore best understood as a tragic intersection of epilepsy, psychiatric illness, religious belief, family conviction, and failure to provide adequate medical care.
 date: 1976-07-01
-publisheddate: 2026-08-23
-image: /static/images/anneliese-michel.jpg
+caseNumber: Anneliese Michel Exorcism
 ---
+### **Image Disclaimer**
+
+**AI-Generated Illustrations:**images used in our articles are **AI-generated illustrations created for visual and educational purposes**. They are intended to represent or recreate the people, locations, events, objects, or scenes discussed in the article and **should not be considered authentic photographs, original evidence, or official documentation of the case**. Where original photographs or copyrighted material exist, we may use AI-generated illustrations instead to avoid unauthorized use of copyrighted images. These illustrations are created based on publicly available descriptions, historical records, reports, and other information related to the case.
+
 # **Who Was Anneliese Michel?**
 
 Anneliese Michel was born **Anna Elisabeth Michel on September 21, 1952**, in Bavaria, West Germany.
@@ -1214,8 +1218,6 @@ IMAGO has genuine historical photographs from the 1978 trial, including photogra
 [IMAGO — Anneliese Michel 1978 Trial Photograph](https://www.imago-images.de/st/0069861872?utm_source=chatgpt.com)
 
 Another genuine historical image listing from the trial. Again, this is **not a free image source**; licensing is required.
-
-
 
 ### **Keywords**
 
