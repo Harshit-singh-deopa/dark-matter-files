@@ -3,6 +3,7 @@ layout: article.njk
 title: "1561 Nuremberg Sky Phenomenon: The Mysterious UFO Battle Over Germany"
 category: ufo-files
 caseNumber: Nuremberg UFO Incident of 1561
+publisheddate: 2026-08-29
 image: /static/images/chatgpt-image-sep-1-2026-03_15_59-pm-2-.png
 summary: The 1561 Nuremberg Sky Phenomenon was a strange celestial event
   reportedly seen over Nuremberg, Germany, on April 14, 1561. Hans Glaser
@@ -11,6 +12,10 @@ summary: The 1561 Nuremberg Sky Phenomenon was a strange celestial event
   battle, while historians and scientists generally consider atmospheric optical
   phenomena such as sun dogs and halos a more plausible explanation.
 ---
+### **Image Disclaimer**
+
+**AI-Generated Illustrations:**images used in our articles are **AI-generated illustrations created for visual and educational purposes**. They are intended to represent or recreate the people, locations, events, objects, or scenes discussed in the article and **should not be considered authentic photographs, original evidence, or official documentation of the case**. Where original photographs or copyrighted material exist, we may use AI-generated illustrations instead to avoid unauthorized use of copyrighted images. These illustrations are created based on publicly available descriptions, historical records, reports, and other information related to the case.
+
 # **Quick Facts**
 
 **Date:** 14 April 1561
@@ -657,6 +662,7 @@ Graphikportal provides detailed catalog information, including the artist, mediu
 [Graphikportal — Hans Glaser's 1561 broadsheet](https://www.graphikportal.org/document/gpo00139748?utm_source=chatgpt.com)
 
 # `1561 Nuremberg UFO`
+
 `Nuremberg UFO sighting 1561`
 `Nuremberg sky battle`
 `1561 celestial phenomenon`
