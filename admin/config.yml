@@ -32,7 +32,7 @@ collections:
       - { label: "Case Number", name: "caseNumber", widget: "string", hint: "e.g. Case #061-A" }
       - label: "Date"
         name: "date"
-        widget: "datetime"
+        widget: "date"
         format: "YYYY-MM-DD"
         date_format: "YYYY-MM-DD"
       - { label: "Cover Image", name: "image", widget: "image" }
