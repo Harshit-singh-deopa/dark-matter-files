@@ -3,6 +3,7 @@ layout: article.njk
 title: "El Yunque Strange Creature Photographs: The 1992–1993 Puerto Rico Mystery"
 category: ufo-files
 caseNumber: El Yunque Creature Mystery
+publisheddate: 2026-08-30
 image: /static/images/chatgpt-image-sep-2-2026-08_03_11-pm-1-.png
 summary: In 1993, Joaquín Ruiz photographed a strange figure near La Mina Falls
   in Puerto Rico's El Yunque rainforest without reportedly noticing it at the
@@ -12,6 +13,10 @@ summary: In 1993, Joaquín Ruiz photographed a strange figure near La Mina Falls
   from an ordinary person or animal to a photographic artifact, hoax or unknown
   phenomenon.
 ---
+### **Image Disclaimer**
+
+**AI-Generated Illustrations:**images used in our articles are **AI-generated illustrations created for visual and educational purposes**. They are intended to represent or recreate the people, locations, events, objects, or scenes discussed in the article and **should not be considered authentic photographs, original evidence, or official documentation of the case**. Where original photographs or copyrighted material exist, we may use AI-generated illustrations instead to avoid unauthorized use of copyrighted images. These illustrations are created based on publicly available descriptions, historical records, reports, and other information related to the case.
+
 # **Quick Facts**
 
 **Location:** El Yunque rainforest, Puerto Rico
@@ -680,8 +685,6 @@ If you need a **modern photograph of the actual location**, Wikimedia Commons ha
 One example is a photograph released under a free license by its photographer. Always follow the individual file's stated license and attribution requirements.
 
 [Wikimedia Commons — La Mina Falls photograph](https://commons.wikimedia.org/wiki/File:La_Mina_Falls.jpg?utm_source=chatgpt.com)
-
-
 
 `El Yunque creature photographs`
 `El Yunque strange creature`
