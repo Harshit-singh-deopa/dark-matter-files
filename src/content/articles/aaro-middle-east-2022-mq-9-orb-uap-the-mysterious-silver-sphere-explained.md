@@ -3,6 +3,7 @@ layout: article.njk
 title: "AARO Middle East 2022 MQ-9 Orb UAP: The Mysterious Silver Sphere Explained"
 category: ufo-files
 caseNumber: AARO UFO Case
+publisheddate: 2026-09-05
 image: /static/images/ufo-6-.png
 summary: The 2022 AARO Middle East Orb case involves a mysterious silver,
   spherical object recorded by a U.S. MQ-9 Reaper in the Middle East. The
@@ -15,6 +16,10 @@ summary: The 2022 AARO Middle East Orb case involves a mysterious silver,
   No evidence currently proves that the object was extraterrestrial or
   technologically advanced.
 ---
+### **Image Disclaimer**
+
+**AI-Generated Illustrations:**images used in our articles are **AI-generated illustrations created for visual and educational purposes**. They are intended to represent or recreate the people, locations, events, objects, or scenes discussed in the article and **should not be considered authentic photographs, original evidence, or official documentation of the case**. Where original photographs or copyrighted material exist, we may use AI-generated illustrations instead to avoid unauthorized use of copyrighted images. These illustrations are created based on publicly available descriptions, historical records, reports, and other information related to the case.
+
 # The Case at a Glance
 
 One of the most interesting UAP videos released by the U.S. Department of Defense shows what appears to be a small, silver, spherical object moving across the view of a camera aboard an MQ-9 Reaper in the Middle East.
