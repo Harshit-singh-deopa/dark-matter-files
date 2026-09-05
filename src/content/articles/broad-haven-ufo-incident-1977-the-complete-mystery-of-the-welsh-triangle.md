@@ -3,6 +3,7 @@ layout: article.njk
 title: "Broad Haven UFO Incident 1977: The Complete Mystery of the Welsh Triangle"
 category: ufo-files
 caseNumber: Broad Haven UFO Case 1977
+publisheddate: 2026-09-02
 image: /static/images/ufo-files.png
 summary: >-
   The Broad Haven UFO incident of 1977 is one of Britain's most famous school
@@ -14,6 +15,12 @@ summary: >-
 
   Although surviving records confirm that the reports were investigated, there is no physical or photographic evidence proving an extraterrestrial spacecraft was involved. A later confession by Glyn Edwards may explain some of the silver-suited figure reports, while misidentification, military aircraft, social influence and memory effects remain possible explanations for the central sighting.
 ---
+### **Image Disclaimer**
+
+**AI-Generated Illustrations:**images used in our articles are **AI-generated illustrations created for visual and educational purposes**. They are intended to represent or recreate the people, locations, events, objects, or scenes discussed in the article and **should not be considered authentic photographs, original evidence, or official documentation of the case**. Where original photographs or copyrighted material exist, we may use AI-generated illustrations instead to avoid unauthorized use of copyrighted images. These illustrations are created based on publicly available descriptions, historical records, reports, and other information related to the case.
+
+
+
 **Date:** 4 February 1977
 **Location:** Broad Haven, Pembrokeshire, Wales, United Kingdom
 **Main witnesses:** Approximately 14–15 schoolchildren
