@@ -4,6 +4,7 @@ title: "Nicholas Roerich UFO Sighting 1927: The Mysterious Object He Saw in
   Central Asia"
 category: ufo-files
 caseNumber: Nicholas Roerich UFO Sighting
+publisheddate: 2026-09-06
 image: /static/images/expedition_members_observing_aer…_2k_202609052030.jpg
 summary: >-
   On August 5, 1927, during his Central Asian expedition, Russian-born artist
@@ -15,6 +16,10 @@ summary: >-
 
   The expedition's lamas reportedly interpreted the sight as "The Sign of Shambhala," connecting the unexplained object to Roerich's longstanding interest in the legendary Himalayan kingdom. Later UFO researchers treated the event as a possible pre-1947 UFO sighting, while skeptics proposed conventional explanations such as a balloon or aircraft. No photograph or instrument measurement conclusively identifies the object, so its true nature remains unknown.
 ---
+### **Image Disclaimer**
+
+**AI-Generated Illustrations:**images used in our articles are **AI-generated illustrations created for visual and educational purposes**. They are intended to represent or recreate the people, locations, events, objects, or scenes discussed in the article and **should not be considered authentic photographs, original evidence, or official documentation of the case**. Where original photographs or copyrighted material exist, we may use AI-generated illustrations instead to avoid unauthorized use of copyrighted images. These illustrations are created based on publicly available descriptions, historical records, reports, and other information related to the case.
+
 # **Who Was Nicholas Roerich?**
 
 Nicholas Roerich was a Russian-born artist, writer, archaeologist, philosopher and explorer who became particularly famous for his paintings and extensive travels across Central and South Asia.
@@ -831,8 +836,6 @@ This is particularly valuable for the **skeptical side** of the story. Davidson 
 [NICAP — August 5, 1927 Roerich Case Analysis](https://www.nicap.org/270805himalayasdir.htm?utm_source=chatgpt.com)
 
 This provides a UFO-research perspective and discusses both the reported observation and the balloon hypothesis. Use it as a secondary research source rather than as proof that the object was extraterrestrial.
-
-
 
 ### **Keywords**
 
