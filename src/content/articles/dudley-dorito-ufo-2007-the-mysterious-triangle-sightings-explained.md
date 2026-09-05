@@ -3,6 +3,7 @@ layout: article.njk
 title: "Dudley Dorito UFO 2007: The Mysterious Triangle Sightings Explained"
 category: ufo-files
 caseNumber: Dudley Dorito UFO Mystery
+publisheddate: 2026-09-01
 image: /static/images/ufo.png
 summary: The Dudley Dorito was a series of mysterious UFO sightings reported
   across the West Midlands from late 2007 onward. Witnesses described a large
@@ -12,6 +13,10 @@ summary: The Dudley Dorito was a series of mysterious UFO sightings reported
   the object, leaving the Dudley Dorito as one of Britain's more intriguing
   unresolved UFO mysteries.
 ---
+### **Image Disclaimer**
+
+**AI-Generated Illustrations:**images used in our articles are **AI-generated illustrations created for visual and educational purposes**. They are intended to represent or recreate the people, locations, events, objects, or scenes discussed in the article and **should not be considered authentic photographs, original evidence, or official documentation of the case**. Where original photographs or copyrighted material exist, we may use AI-generated illustrations instead to avoid unauthorized use of copyrighted images. These illustrations are created based on publicly available descriptions, historical records, reports, and other information related to the case.
+
 ## **Quick Facts**
 
 # **What Was the Dudley Dorito?**
@@ -1147,8 +1152,6 @@ The *Express & Star* archive is useful for finding the images that accompanied c
 # **Editor's Note**
 
 *This article distinguishes documented historical records from witness claims and later theories. The Dudley Dorito has not been proven to be an extraterrestrial spacecraft, secret military aircraft or a single physical object. Where evidence is incomplete, the article identifies the information as a report, claim or theory rather than presenting it as established fact.*
-
-
 
 **Primary Keywords:**Dudley Dorito UFO, Dudley UFO 2007, Dudley Dorito sightings, Dudley UFO sighting, West Midlands UFO, black triangle UFO UK, triangular UFO UK, Dudley UFO video, Dudley UFO photograph, Dudley Dorito 2007
 
