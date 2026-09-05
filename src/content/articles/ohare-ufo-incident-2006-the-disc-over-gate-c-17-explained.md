@@ -3,6 +3,7 @@ layout: article.njk
 title: "O'Hare UFO Incident 2006: The Disc Over Gate C-17 Explained"
 category: ufo-files
 caseNumber: O'Hare UFO 2006
+publisheddate: 2026-09-01
 image: /static/images/dark-matter-files.png
 summary: The 2006 O'Hare UFO incident occurred on November 7, 2006, when
   multiple United Airlines employees and other observers reported seeing a
@@ -18,6 +19,10 @@ summary: The 2006 O'Hare UFO incident occurred on November 7, 2006, when
   evidence, the O'Hare UFO remains one of the most debated and unresolved modern
   airport UFO cases.
 ---
+### **Image Disclaimer**
+
+**AI-Generated Illustrations:**images used in our articles are **AI-generated illustrations created for visual and educational purposes**. They are intended to represent or recreate the people, locations, events, objects, or scenes discussed in the article and **should not be considered authentic photographs, original evidence, or official documentation of the case**. Where original photographs or copyrighted material exist, we may use AI-generated illustrations instead to avoid unauthorized use of copyrighted images. These illustrations are created based on publicly available descriptions, historical records, reports, and other information related to the case.
+
 # **Quick Facts**
 
 # **The O'Hare UFO Incident**
@@ -1428,7 +1433,5 @@ NARCAP's technical-report page provides access to its collection of aviation/UAP
 ## **Keywords**
 
 `O'Hare UFO 2006O'Hare UFO incidentO'Hare airport UFO2006 O'Hare UFO sightingChicago O'Hare UFOGate C17 UFOO'Hare flying saucerO'Hare UFO witnessesO'Hare UFO cloud holeO'Hare UFO radarFAA O'Hare UFONARCAP O'Hare UFOhole punch cloud UFOChicago UFO sighting`
-
-
 
 DetailInformation**Date**November 7, 2006**Location**Chicago O'Hare International Airport, Illinois, USA**Reported location**Above/near United Airlines Gate C-17, Concourse C**Approximate time**Around 4:15–4:30 p.m. CST, although records contain timing discrepancies**Reported object**Dark/gray metallic disc or saucer**Sound**Witnesses generally reported no sound**Reported duration**Several minutes; individual estimates vary**Reported altitude**Roughly 500–1,800 feet above ground, depending on witness**Radar**No confirmed radar track corresponding to the object**Photograph of object**No authenticated photograph**Video of object**No authenticated video**Physical trace**Witnesses reported a circular opening in the cloud layer**Official explanation**Weather phenomenon / possible hole-punch cloud and/or lighting effect**Independent investigation**NARCAP Technical Report 10**Current status**Disputed / unexplained
