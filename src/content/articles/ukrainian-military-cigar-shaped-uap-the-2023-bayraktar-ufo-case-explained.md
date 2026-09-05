@@ -3,6 +3,7 @@ layout: article.njk
 title: "Ukrainian Military Cigar-Shaped UAP: The 2023 Bayraktar UFO Case Explained"
 category: ufo-files
 caseNumber: Bayraktar UAP Incident
+publisheddate: 2026-09-05
 image: /static/images/ufo-5-.png
 summary: A Ukrainian military Bayraktar TB2 UAV recorded a mysterious
   cigar-shaped object over central Ukraine on February 15, 2023. Ukrainian
@@ -13,6 +14,10 @@ summary: A Ukrainian military Bayraktar TB2 UAV recorded a mysterious
   identified as a specific aircraft, leaving open possibilities ranging from an
   unknown drone or sensor-related effect to other unexplained technology.
 ---
+### **Image Disclaimer**
+
+**AI-Generated Illustrations:**images used in our articles are **AI-generated illustrations created for visual and educational purposes**. They are intended to represent or recreate the people, locations, events, objects, or scenes discussed in the article and **should not be considered authentic photographs, original evidence, or official documentation of the case**. Where original photographs or copyrighted material exist, we may use AI-generated illustrations instead to avoid unauthorized use of copyrighted images. These illustrations are created based on publicly available descriptions, historical records, reports, and other information related to the case.
+
 ## **The Case at a Glance**
 
 On February 15, 2023, a Ukrainian military **Bayraktar TB2 unmanned aerial vehicle** recorded an unusual object with its infrared/thermal imaging system.
