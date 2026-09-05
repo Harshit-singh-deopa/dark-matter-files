@@ -3,6 +3,7 @@ layout: article.njk
 title: "Jetpack Man LAX Mystery: The 2020–2022 Pilot Sightings Explained"
 category: ufo-files
 caseNumber: Jetpack Man 2020
+publisheddate: 2026-09-04
 image: /static/images/ufo-4-.png
 summary: The LAX Jetpack Man mystery began in August 2020 when commercial
   airline pilots reported seeing what appeared to be a person flying beside
@@ -15,6 +16,10 @@ summary: The LAX Jetpack Man mystery began in August 2020 when commercial
   because no single object has been conclusively identified as the source of all
   the sightings.
 ---
+### **Image Disclaimer**
+
+**AI-Generated Illustrations:**images used in our articles are **AI-generated illustrations created for visual and educational purposes**. They are intended to represent or recreate the people, locations, events, objects, or scenes discussed in the article and **should not be considered authentic photographs, original evidence, or official documentation of the case**. Where original photographs or copyrighted material exist, we may use AI-generated illustrations instead to avoid unauthorized use of copyrighted images. These illustrations are created based on publicly available descriptions, historical records, reports, and other information related to the case.
+
 # **The Strange Story of Jetpack Man**
 
 In late summer 2020, something extraordinary appeared to be happening in the skies around Los Angeles.
