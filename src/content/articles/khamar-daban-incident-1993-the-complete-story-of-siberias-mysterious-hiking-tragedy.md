@@ -4,6 +4,7 @@ title: "Khamar-Daban Incident 1993: The Complete Story of Siberia's Mysterious
   Hiking Tragedy"
 category: unsolved-mystery
 caseNumber: The Siberian Hiking Mystery
+publisheddate: 2026-08-29
 image: /static/images/chatgpt-image-sep-1-2026-12_29_08-pm-1-.png
 summary: >
   ## **Khamar-Daban Incident 1993 — Short Summary**
@@ -11,6 +12,10 @@ summary: >
 
   The **Khamar-Daban Incident** occurred on **August 5, 1993**, when six members of a seven-person hiking group died in Siberia's Khamar-Daban mountains near Lake Baikal. Only **17-year-old Valentina Utochenko** survived. The official investigation attributed five deaths to **hypothermia** and the death of group leader **Lyudmila Korovina** to a heart attack. However, Utochenko's disturbing account of the hikers' sudden collapse and unusual symptoms has led to theories involving poisoning, toxic exposure, extreme weather and other unexplained causes.
 ---
+### **Image Disclaimer**
+
+**AI-Generated Illustrations:**images used in our articles are **AI-generated illustrations created for visual and educational purposes**. They are intended to represent or recreate the people, locations, events, objects, or scenes discussed in the article and **should not be considered authentic photographs, original evidence, or official documentation of the case**. Where original photographs or copyrighted material exist, we may use AI-generated illustrations instead to avoid unauthorized use of copyrighted images. These illustrations are created based on publicly available descriptions, historical records, reports, and other information related to the case.
+
 # **Khamar-Daban Incident (1993): The Complete Story**
 
 ## **Introduction**
@@ -679,8 +684,6 @@ Useful for historical mountain information and an overview of the expedition.
 A useful secondary source with an archival group photograph and background on the tragedy.
 
 [Russia Beyond — Khamar-Daban tragedy overview](https://ru.rbth.com/zhizn/206-pereval-dyatlova-zagadochnye-smerti?utm_source=chatgpt.com)
-
-
 
 # **SEO Meta Description**
 
