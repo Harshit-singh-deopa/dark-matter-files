@@ -4,6 +4,7 @@ title: "USS Theodore Roosevelt UFO Incidents: GIMBAL, GOFAST and the 2014–2015
   Navy Encounters"
 category: ufo-files
 caseNumber: GIMBAL UFO Explained
+publisheddate: 2026-09-04
 image: /static/images/ufo-3-.png
 summary: The USS Theodore Roosevelt UFO incidents refer to a series of reported
   UAP encounters involving U.S. Navy F/A-18 crews during East Coast training
@@ -19,6 +20,10 @@ summary: The USS Theodore Roosevelt UFO incidents refer to a series of reported
   reconstructed because much of the underlying sensor data remains unavailable
   to the public.
 ---
+### **Image Disclaimer**
+
+**AI-Generated Illustrations:**images used in our articles are **AI-generated illustrations created for visual and educational purposes**. They are intended to represent or recreate the people, locations, events, objects, or scenes discussed in the article and **should not be considered authentic photographs, original evidence, or official documentation of the case**. Where original photographs or copyrighted material exist, we may use AI-generated illustrations instead to avoid unauthorized use of copyrighted images. These illustrations are created based on publicly available descriptions, historical records, reports, and other information related to the case.
+
 # **The USS Theodore Roosevelt UFO Story**
 
 When people talk about the modern U.S. Navy UFO mystery, they often mention the famous **GIMBAL** and **GOFAST** videos.
@@ -1118,10 +1123,6 @@ The Navy's FOIA reading room also contains a broader collection of released UAP-
 [U.S. Navy FOIA — UAP Documents](https://www.secnav.navy.mil/foia/readingroom/casefiles/forms/allitems.aspx?FolderCTID=0x012000CD3AEB341204C14DB4C7B99C57E99B26&RootFolder=%2Ffoia%2Freadingroom%2FCaseFiles%2FUAP+INFO%2FUAP+DOCUMENTS&View=%7B2B2E8971-1630-46BC-93E2-CF7519695119%7D&utm_source=chatgpt.com)
 
 This is particularly useful if you want to investigate the case beyond the two famous videos.
-
-
-
-
 
 # **Final Verdict**
 
