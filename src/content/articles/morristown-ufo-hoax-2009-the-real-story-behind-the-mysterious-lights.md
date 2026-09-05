@@ -3,6 +3,7 @@ layout: article.njk
 title: "Morristown UFO Hoax 2009: The Real Story Behind the Mysterious Lights"
 category: ufo-files
 caseNumber: Morristown UFO Hoax 2009
+publisheddate: 2026-09-02
 image: /static/images/ufo-2-.png
 summary: >-
   The Morristown UFO Hoax of 2009 began when mysterious red lights appeared over
@@ -14,6 +15,10 @@ summary: >-
 
   The case became famous because the witnesses genuinely believed they were seeing something extraordinary, while even UFO investigators struggled to identify the objects correctly. The hoax demonstrated how easily ambiguous lights, eyewitness interpretation and media attention can turn a simple event into a major UFO mystery.
 ---
+### **Image Disclaimer**
+
+**AI-Generated Illustrations:**images used in our articles are **AI-generated illustrations created for visual and educational purposes**. They are intended to represent or recreate the people, locations, events, objects, or scenes discussed in the article and **should not be considered authentic photographs, original evidence, or official documentation of the case**. Where original photographs or copyrighted material exist, we may use AI-generated illustrations instead to avoid unauthorized use of copyrighted images. These illustrations are created based on publicly available descriptions, historical records, reports, and other information related to the case.
+
 # **Morristown UFO Hoax 2009: The Complete Story of the New Jersey UFO Mystery**
 
 **Location:** Morris County, New Jersey, United States
