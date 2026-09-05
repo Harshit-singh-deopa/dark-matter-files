@@ -3,6 +3,7 @@ layout: article.njk
 title: "Miracle of the Sun at Fátima 1917: What Really Happened?"
 category: ufo-files
 caseNumber: 1917 Miracle of the Sun
+publisheddate: 2026-09-06
 image: /static/images/historical_reconstruction_of_fát…_2k_202609052010.jpg
 summary: >-
   On October 13, 1917, tens of thousands of people gathered at Cova da Iria near
@@ -15,6 +16,10 @@ summary: >-
 
   The Catholic Church later accepted the Fátima apparitions as worthy of belief, while skeptics and researchers have proposed explanations involving optical effects, atmospheric conditions, retinal effects, mass expectation and other natural phenomena. What physically happened to produce the reports remains debated; importantly, the evidence does not demonstrate that the astronomical Sun literally moved through the sky...
 ---
+### **Image Disclaimer**
+
+**AI-Generated Illustrations:**images used in our articles are **AI-generated illustrations created for visual and educational purposes**. They are intended to represent or recreate the people, locations, events, objects, or scenes discussed in the article and **should not be considered authentic photographs, original evidence, or official documentation of the case**. Where original photographs or copyrighted material exist, we may use AI-generated illustrations instead to avoid unauthorized use of copyrighted images. These illustrations are created based on publicly available descriptions, historical records, reports, and other information related to the case.
+
 # **What Was the Miracle of the Sun?**
 
 The **Miracle of the Sun** refers to an extraordinary event reported on **October 13, 1917**, at Cova da Iria, near Fátima in central Portugal.
@@ -945,8 +950,6 @@ This is the safest primary source for the Vatican's publication and interpretati
 [Vatican — Pope Francis at Fátima, 2017](https://www.vatican.va/content/francesco/en/homilies/2017/documents/papa-francesco_20170513_omelia-pellegrinaggio-fatima.html?utm_source=chatgpt.com)
 
 Useful for the later history of the two young witnesses and their canonization in 2017.
-
-
 
 # **Keywords**
 
