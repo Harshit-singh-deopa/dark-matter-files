@@ -3,6 +3,7 @@ incidentdate: 1975-09-24
 layout: article.njk
 title: "Anneliese Michel Exorcism Case: What Really Happened in 1976?"
 category: paranormal
+caseName: Anneliese Michel Exorcism
 publisheddate: 2026-08-23
 image: /static/images/anneliese-michel-1-.jpg
 summary: >-
