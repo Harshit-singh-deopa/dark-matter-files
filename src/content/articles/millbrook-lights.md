@@ -2,12 +2,13 @@
 layout: article.njk
 title: Lights Over Millbrook
 category: ufo-files
-caseNumber: "Case #061-A"
+caseName: Lights Over Millbrook
 publisheddate: 2026-08-25
+image: /static/images/millbrook-lights.jpg
 summary: Nineteen residents of a small farming town reported synchronized aerial
   lights hovering for over an hour before vanishing without sound.
 date: 1961-08-14
-image: /static/images/millbrook-lights.jpg
+caseNumber: "Case #061-A"
 ---
 ### **Image Disclaimer**
 
