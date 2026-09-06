@@ -2,7 +2,7 @@
 layout: article.njk
 title: "Somerton Man Mystery Explained: The Tamám Shud Case of 1948"
 category: unsolved-mystery
-caseNumber: Tamám Shud 1948
+caseName: Somerton Man Mystery
 publisheddate: 2026-09-06
 image: /static/images/tamám_shud_case_historical_inves…_2k_202609061101.jpg
 summary: The Tamám Shud Case, commonly known as the Somerton Man mystery, began
@@ -18,6 +18,7 @@ summary: The Tamám Shud Case, commonly known as the Somerton Man mystery, began
   investigation was still ongoing in July 2026. The identity question is
   therefore substantially closer to resolution, while the circumstances and
   cause of his death remain unresolved.
+caseNumber: Tamám Shud 1948
 ---
 ### **Image Disclaimer**
 
