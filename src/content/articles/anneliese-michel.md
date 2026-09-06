@@ -4,7 +4,7 @@ layout: article.njk
 title: "Anneliese Michel Exorcism Case: What Really Happened in 1976?"
 category: paranormal
 publisheddate: 2026-08-23
-image: /static/images/anneliese-michel.jpg
+image: /static/images/anneliese-michel-1-.jpg
 summary: >-
   Anneliese Michel was a young German woman from Klingenberg am Main who
   developed serious neurological and psychiatric problems during her teenage
