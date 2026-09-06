@@ -3,8 +3,9 @@ layout: article.njk
 title: "Quantum Entanglement Explained: How Scientists Create and Detect
   Entangled Photons"
 category: science-tech
-caseNumber: Quantum Entanglement Experiment
+caseName: Quantum Entanglement
 publisheddate: 2026-08-24
+image: /static/images/entangled-light.jpg
 summary: >-
   Quantum entanglement is a real and experimentally demonstrated phenomenon in
   which quantum systems can share correlations that cannot be explained by
@@ -16,7 +17,7 @@ summary: >-
 
   Modern experiments can generate, manipulate and detect individual photons with extraordinary precision. They are not merely demonstrations of a strange quantum effect; the underlying technology is now important for research into quantum computers, quantum communication, quantum networks and quantum cryptography.
 date: 2022-01-01
-image: /static/images/entangled-light.jpg
+caseNumber: Quantum Entanglement Experiment
 ---
 ### **Image Disclaimer**
 
