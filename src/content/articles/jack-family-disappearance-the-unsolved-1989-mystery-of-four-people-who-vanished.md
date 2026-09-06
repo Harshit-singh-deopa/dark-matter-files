@@ -3,7 +3,7 @@ layout: article.njk
 title: "Jack Family Disappearance: The Unsolved 1989 Mystery of Four People Who
   Vanished"
 category: unsolved-mystery
-caseNumber: The Jack Family Disappearance
+caseName: Jack Family Mystery
 publisheddate: 2026-08-28
 image: /static/images/jack-family-case.png
 summary: >
@@ -11,6 +11,7 @@ summary: >
 
 
   The **Jack family disappearance** is one of Canada's most haunting unsolved cases. On **August 2, 1989**, Ronald and Doreen Jack and their two sons, **Russell, 9, and Ryan, 4**, vanished from Prince George, British Columbia, after accepting a mysterious job offer from an unidentified man. The family was last seen leaving in his pickup truck. Despite decades of investigation, searches and a mysterious 1996 burial-site tip, **none of the four has ever been found**. The RCMP investigation remains open.
+caseNumber: The Jack Family Disappearance
 ---
 ### **Image Disclaimer**
 
