@@ -2,7 +2,7 @@
 layout: article.njk
 title: "Morristown UFO Hoax 2009: The Real Story Behind the Mysterious Lights"
 category: ufo-files
-caseNumber: Morristown UFO Hoax 2009
+caseName: "Morristown UFO Hoax "
 publisheddate: 2026-09-02
 image: /static/images/ufo-2-.png
 summary: >-
@@ -14,6 +14,7 @@ summary: >-
 
 
   The case became famous because the witnesses genuinely believed they were seeing something extraordinary, while even UFO investigators struggled to identify the objects correctly. The hoax demonstrated how easily ambiguous lights, eyewitness interpretation and media attention can turn a simple event into a major UFO mystery.
+caseNumber: Morristown UFO Hoax 2009
 ---
 ### **Image Disclaimer**
 
