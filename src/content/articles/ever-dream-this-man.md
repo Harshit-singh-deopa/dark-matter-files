@@ -2,12 +2,13 @@
 layout: article.njk
 title: Ever Dream This Man?
 category: unsolved-mystery
-caseNumber: "Case #006-M"
+caseName: "Ever Dream "
 publisheddate: 2026-08-25
+image: /static/images/ever-dream-this-man.jpg
 summary: A famous 2000s-era internet hoax. The legend claimed that people around
   the world were mysteriously dreaming about the same man.
 date: 2006-03-01
-image: /static/images/ever-dream-this-man.jpg
+caseNumber: "Case #006-M"
 ---
 ### **Image Disclaimer**
 
