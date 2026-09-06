@@ -2,13 +2,14 @@
 layout: article.njk
 title: The Time-Traveling Hipster
 category: space-time
-caseNumber: "Case #941-T"
+caseName: The Time-Traveling Hipster
 publisheddate: 2026-08-25
+image: /static/images/time-traveling-hipster.jpg
 summary: Buried in a photo of a 1940s public gathering, one figure stands out
   from the rest of the crowd — sunglasses, a modern jacket, and a compact camera
   unlike anything else in frame.
 date: 1947-06-01
-image: /static/images/time-traveling-hipster.jpg
+caseNumber: "Case #941-T"
 ---
 ### **Image Disclaimer**
 
