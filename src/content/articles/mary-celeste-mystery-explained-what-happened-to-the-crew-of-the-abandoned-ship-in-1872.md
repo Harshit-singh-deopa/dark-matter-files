@@ -3,7 +3,7 @@ layout: article.njk
 title: "Mary Celeste Mystery Explained: What Happened to the Crew of the
   Abandoned Ship in 1872?"
 category: unsolved-mystery
-caseNumber: Mary Celeste 1872
+caseName: Mary Celeste Mystery
 publisheddate: 2026-09-06
 image: /static/images/mary_celeste_investigation_archive_2k_202609061045.jpg
 summary: >
@@ -16,6 +16,7 @@ summary: >
   found no conclusive evidence of foul play. Theories ranging from water ingress
   and pump problems to alcohol vapor and sudden evacuation have been proposed,
   but **what happened to the Mary Celeste's crew remains unknown**.
+caseNumber: Mary Celeste 1872
 ---
 ### **Image Disclaimer**
 
