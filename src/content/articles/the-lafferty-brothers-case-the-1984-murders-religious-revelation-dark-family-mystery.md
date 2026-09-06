@@ -3,7 +3,7 @@ layout: article.njk
 title: "The Lafferty Brothers Case: The 1984 Murders, Religious Revelation &
   Dark Family Mystery"
 category: paranormal
-caseNumber: Lafferty Murders 1984
+caseName: The Lafferty Brothers Case
 publisheddate: 2026-08-28
 image: /static/images/cult.png
 summary: >
@@ -11,6 +11,7 @@ summary: >
 
 
   The **Lafferty Brothers case** was a shocking double murder in American Fork, Utah, on **July 24, 1984**. Brothers **Ron and Dan Lafferty** murdered **24-year-old Brenda Lafferty and her 15-month-old daughter, Erica**. Ron claimed he had received a divine revelation ordering their “removal,” while investigators and prosecutors also linked the killings to personal resentment and his radical religious beliefs. Both brothers were convicted; **Ron was sentenced to death and died in prison in 2019**, while **Dan received life imprisonment**.
+caseNumber: Lafferty Murders 1984
 ---
 ### **Image Disclaimer**
 
