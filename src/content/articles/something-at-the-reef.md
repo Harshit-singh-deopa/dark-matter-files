@@ -2,13 +2,14 @@
 layout: article.njk
 title: Something at the Reef
 category: unexplored-ocean
-caseNumber: "Case #049-S"
+caseName: Something at the Reef
 publisheddate: 2026-08-25
+image: /static/images/something-at-the-reef.jpg
 summary: A government survey crew logged an unidentified shape surfacing near
   the rocks off the coast, photographed only once before it vanished beneath the
   swell.
 date: 1949-10-01
-image: /static/images/something-at-the-reef.jpg
+caseNumber: "Case #049-S"
 ---
 ### **Image Disclaimer**
 
