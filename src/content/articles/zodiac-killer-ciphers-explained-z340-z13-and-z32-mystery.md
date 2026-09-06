@@ -2,7 +2,7 @@
 layout: article.njk
 title: "Zodiac Killer Ciphers Explained: Z340, Z13 and Z32 Mystery"
 category: unsolved-mystery
-caseNumber: Zodiac Killer's Secret Codes
+caseName: "Zodiac Killer Ciphers "
 publisheddate: 2026-09-06
 image: /static/images/investigating_historical_zodiac_…_2k_202609061024.jpg
 summary: The Zodiac Killer's ciphers are among the most famous unsolved-code
@@ -13,6 +13,7 @@ summary: The Zodiac Killer's ciphers are among the most famous unsolved-code
   unsolved for more than 50 years before being cracked in 2020. Its solution did
   not reveal the killer's identity. Z13 and Z32 remain officially unresolved,
   despite decades of proposed solutions and modern computer-assisted attempts.
+caseNumber: Zodiac Killer's Secret Codes
 ---
 ### **Image Disclaimer**
 
