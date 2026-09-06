@@ -2,7 +2,7 @@
 layout: article.njk
 title: "AARO Middle East 2022 MQ-9 Orb UAP: The Mysterious Silver Sphere Explained"
 category: ufo-files
-caseNumber: AARO UFO Case
+caseName: Silver Sphere Mystery
 publisheddate: 2026-09-05
 image: /static/images/ufo-6-.png
 summary: The 2022 AARO Middle East Orb case involves a mysterious silver,
@@ -15,6 +15,7 @@ summary: The 2022 AARO Middle East Orb case involves a mysterious silver,
   motion parallax and a reflective balloon could explain the apparent movement.
   No evidence currently proves that the object was extraterrestrial or
   technologically advanced.
+caseNumber: AARO UFO Case
 ---
 ### **Image Disclaimer**
 
