@@ -2,7 +2,7 @@
 layout: article.njk
 title: "Amelia Earhart Disappearance 1937: What Really Happened to Her?"
 category: unsolved-mystery
-caseNumber: Amelia Earhart Mystery
+caseName: "Amelia Earhart Disappearance "
 publisheddate: 2026-09-06
 image: /static/images/investigation_of_disappearance_o…_2k_202609060946.jpg
 summary: >-
@@ -14,6 +14,7 @@ summary: >-
 
 
   The United States launched a massive air-and-sea search, but no confirmed wreckage, aircraft or remains were found. The leading conventional explanation is that Earhart and Noonan were unable to locate Howland Island, eventually ran out of fuel and ditched somewhere in the Pacific. Other theories propose a landing on Nikumaroro, capture by Japanese forces, navigation or radio problems, or other possibilities. None of the more extraordinary theories has been conclusively proven.
+caseNumber: Amelia Earhart Mystery
 ---
 ### **Image Disclaimer**
 
