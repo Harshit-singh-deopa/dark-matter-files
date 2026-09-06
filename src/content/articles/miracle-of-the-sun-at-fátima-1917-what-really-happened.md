@@ -2,7 +2,7 @@
 layout: article.njk
 title: "Miracle of the Sun at Fátima 1917: What Really Happened?"
 category: ufo-files
-caseNumber: 1917 Miracle of the Sun
+caseName: Miracle of the Sun
 publisheddate: 2026-09-06
 image: /static/images/historical_reconstruction_of_fát…_2k_202609052010.jpg
 summary: >-
@@ -15,6 +15,7 @@ summary: >-
   described the Sun as appearing to "dance."
 
   The Catholic Church later accepted the Fátima apparitions as worthy of belief, while skeptics and researchers have proposed explanations involving optical effects, atmospheric conditions, retinal effects, mass expectation and other natural phenomena. What physically happened to produce the reports remains debated; importantly, the evidence does not demonstrate that the astronomical Sun literally moved through the sky...
+caseNumber: 1917 Miracle of the Sun
 ---
 ### **Image Disclaimer**
 
