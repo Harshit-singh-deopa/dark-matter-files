@@ -2,7 +2,7 @@
 layout: article.njk
 title: "Jetpack Man LAX Mystery: The 2020–2022 Pilot Sightings Explained"
 category: ufo-files
-caseNumber: Jetpack Man 2020
+caseName: Jetpack Man Mystery
 publisheddate: 2026-09-04
 image: /static/images/ufo-4-.png
 summary: The LAX Jetpack Man mystery began in August 2020 when commercial
@@ -15,6 +15,7 @@ summary: The LAX Jetpack Man mystery began in August 2020 when commercial
   identifying balloons as one working theory. The mystery remains unresolved
   because no single object has been conclusively identified as the source of all
   the sightings.
+caseNumber: Jetpack Man 2020
 ---
 ### **Image Disclaimer**
 
