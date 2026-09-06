@@ -3,7 +3,7 @@ layout: article.njk
 title: "USS Theodore Roosevelt UFO Incidents: GIMBAL, GOFAST and the 2014–2015
   Navy Encounters"
 category: ufo-files
-caseNumber: GIMBAL UFO Explained
+caseName: USS Theodore Roosevelt UFO
 publisheddate: 2026-09-04
 image: /static/images/ufo-3-.png
 summary: The USS Theodore Roosevelt UFO incidents refer to a series of reported
@@ -19,6 +19,7 @@ summary: The USS Theodore Roosevelt UFO incidents refer to a series of reported
   unresolved, while the broader Roosevelt encounters cannot be completely
   reconstructed because much of the underlying sensor data remains unavailable
   to the public.
+caseNumber: GIMBAL UFO Explained
 ---
 ### **Image Disclaimer**
 
