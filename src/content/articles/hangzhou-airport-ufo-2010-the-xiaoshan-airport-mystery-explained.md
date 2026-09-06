@@ -2,7 +2,7 @@
 layout: article.njk
 title: "Hangzhou Airport UFO 2010: The Xiaoshan Airport Mystery Explained"
 category: ufo-files
-caseNumber: Hangzhou UFO Sighting 2010
+caseName: Hangzhou Airport UFO
 publisheddate: 2026-09-03
 image: /static/images/ufo-files-2-.png
 summary: The Hangzhou Xiaoshan Airport UFO incident occurred on July 7, 2010,
@@ -17,6 +17,7 @@ summary: The Hangzhou Xiaoshan Airport UFO incident occurred on July 7, 2010,
   conclusively identified, leaving possibilities such as an unauthorized private
   aircraft, military aircraft or another conventional phenomenon open, while
   there is no evidence proving an extraterrestrial spacecraft.
+caseNumber: Hangzhou UFO Sighting 2010
 ---
 ### **Image Disclaimer**
 
