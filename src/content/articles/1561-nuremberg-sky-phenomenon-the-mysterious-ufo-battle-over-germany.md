@@ -2,7 +2,7 @@
 layout: article.njk
 title: "1561 Nuremberg Sky Phenomenon: The Mysterious UFO Battle Over Germany"
 category: ufo-files
-caseNumber: Nuremberg UFO Incident of 1561
+caseName: 1561 Nuremberg Sky Phenomenon
 publisheddate: 2026-08-29
 image: /static/images/chatgpt-image-sep-1-2026-03_15_59-pm-2-.png
 summary: The 1561 Nuremberg Sky Phenomenon was a strange celestial event
@@ -11,6 +11,7 @@ summary: The 1561 Nuremberg Sky Phenomenon was a strange celestial event
   and clashing in the sky. Today, UFO enthusiasts interpret it as an ancient UFO
   battle, while historians and scientists generally consider atmospheric optical
   phenomena such as sun dogs and halos a more plausible explanation.
+caseNumber: Nuremberg UFO Incident of 1561
 ---
 ### **Image Disclaimer**
 
