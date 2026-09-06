@@ -2,7 +2,7 @@
 layout: article.njk
 title: "Mihal Grameno UFO Sighting of 1907: The Mysterious Object Seen in Albania"
 category: ufo-files
-caseNumber: Mihal Grameno UFO Case
+caseName: "Mihal Grameno UFO Sighting "
 publisheddate: 2026-09-06
 image: /static/images/mihal_grameno_ufo_sighting_collage_2k_202609051946-1-.jpg
 summary: >-
@@ -12,6 +12,7 @@ summary: >-
   remained suspended in the air for several minutes, and then disappeared.
 
   The incident is often described as Albania's earliest documented UFO account, but the original description does not establish that the object was extraterrestrial. Its exact location, appearance, distance and identity remain unknown, leaving possibilities ranging from a conventional object or atmospheric phenomenon to something genuinely unexplained.
+caseNumber: Mihal Grameno UFO Case
 ---
 ### **Image Disclaimer**
 
