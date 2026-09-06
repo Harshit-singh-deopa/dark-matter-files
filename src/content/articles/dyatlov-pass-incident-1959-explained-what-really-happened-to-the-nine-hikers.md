@@ -3,7 +3,7 @@ layout: article.njk
 title: "Dyatlov Pass Incident 1959 Explained: What Really Happened to the Nine
   Hikers?"
 category: unsolved-mystery
-caseNumber: Dyatlov Pass Mystery
+caseName: Dyatlov Pass Mystery
 publisheddate: 2026-09-06
 image: /static/images/dyatlov_pass_historical_investig…_2k_202609061034.jpg
 summary: The Dyatlov Pass Incident occurred in the northern Ural Mountains of
@@ -17,6 +17,7 @@ summary: The Dyatlov Pass Incident occurred in the northern Ural Mountains of
   2020 concluded that a snow avalanche was the most likely cause, while a 2021
   peer-reviewed study demonstrated how a delayed snow-slab avalanche could
   plausibly have occurred at the campsite.
+caseNumber: Dyatlov Pass Mystery
 ---
 ### **Image Disclaimer**
 
