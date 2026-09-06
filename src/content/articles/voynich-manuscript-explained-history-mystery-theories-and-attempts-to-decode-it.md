@@ -3,7 +3,7 @@ layout: article.njk
 title: "Voynich Manuscript Explained: History, Mystery, Theories and Attempts to
   Decode It"
 category: unsolved-mystery
-caseNumber: Voynich Manuscript Mystery
+caseName: Voynich Manuscript Mystery
 publisheddate: 2026-09-06
 image: /static/images/investigating_the_voynich_manusc…_2k_202609061009.jpg
 summary: >-
@@ -17,6 +17,7 @@ summary: >-
   Scientific testing has established that the parchment belongs to the early 15th century, while historical evidence places the manuscript in Central Europe and eventually connects it with figures including Emperor Rudolf II, Athanasius Kircher and, much later, bookseller Wilfrid Voynich. Yale acquired it in 1969.
 
   The great mystery is not whether the manuscript exists—it unquestionably does. The unanswered questions are who created it, what its strange script represents, what the illustrations mean, and whether the text is a language, cipher, constructed system or something else entirely.
+caseNumber: Voynich Manuscript Mystery
 ---
 ### **Image Disclaimer**
 
