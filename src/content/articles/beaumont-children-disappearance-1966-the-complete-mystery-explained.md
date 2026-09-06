@@ -2,7 +2,7 @@
 layout: article.njk
 title: "Beaumont Children Disappearance 1966: The Complete Mystery Explained"
 category: unsolved-mystery
-caseNumber: Beaumont Children Disappearance
+caseName: Beaumont Children Disappearance
 publisheddate: 2026-09-06
 image: /static/images/investigation_of_missing_childre…_2k_202609060958.jpg
 summary: >-
@@ -15,6 +15,7 @@ summary: >-
   Despite one of South Australia's largest investigations and repeated searches over the following decades, the children were never found. South Australian authorities continue to treat the case as an abduction and presumed murder, but no perpetrator has ever been convicted and no remains have been recovered.
 
   The case has generated theories involving an unidentified man, accidental drowning, known criminals, the former Castalloy factory in North Plympton, and several other possibilities. None has been conclusively proven.
+caseNumber: Beaumont Children Disappearance
 ---
 ### **Image Disclaimer**
 
