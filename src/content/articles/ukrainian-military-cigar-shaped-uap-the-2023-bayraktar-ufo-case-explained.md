@@ -2,7 +2,7 @@
 layout: article.njk
 title: "Ukrainian Military Cigar-Shaped UAP: The 2023 Bayraktar UFO Case Explained"
 category: ufo-files
-caseNumber: Bayraktar UAP Incident
+caseName: Ukrainian Military UFO
 publisheddate: 2026-09-05
 image: /static/images/ufo-5-.png
 summary: A Ukrainian military Bayraktar TB2 UAV recorded a mysterious
@@ -13,6 +13,7 @@ summary: A Ukrainian military Bayraktar TB2 UAV recorded a mysterious
   released data. The object was ultimately classified as a UAP rather than
   identified as a specific aircraft, leaving open possibilities ranging from an
   unknown drone or sensor-related effect to other unexplained technology.
+caseNumber: Bayraktar UAP Incident
 ---
 ### **Image Disclaimer**
 
