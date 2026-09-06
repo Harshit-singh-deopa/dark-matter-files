@@ -3,7 +3,7 @@ layout: article.njk
 title: "Khamar-Daban Incident 1993: The Complete Story of Siberia's Mysterious
   Hiking Tragedy"
 category: unsolved-mystery
-caseNumber: The Siberian Hiking Mystery
+caseName: Khamar-Daban Incident
 publisheddate: 2026-08-29
 image: /static/images/chatgpt-image-sep-1-2026-12_29_08-pm-1-.png
 summary: >
@@ -11,6 +11,7 @@ summary: >
 
 
   The **Khamar-Daban Incident** occurred on **August 5, 1993**, when six members of a seven-person hiking group died in Siberia's Khamar-Daban mountains near Lake Baikal. Only **17-year-old Valentina Utochenko** survived. The official investigation attributed five deaths to **hypothermia** and the death of group leader **Lyudmila Korovina** to a heart attack. However, Utochenko's disturbing account of the hikers' sudden collapse and unusual symptoms has led to theories involving poisoning, toxic exposure, extreme weather and other unexplained causes.
+caseNumber: The Siberian Hiking Mystery
 ---
 ### **Image Disclaimer**
 
