@@ -2,7 +2,7 @@
 layout: article.njk
 title: "2009 Norwegian Spiral Anomaly: The Mystery Behind the Giant Sky Spiral"
 category: ufo-files
-caseNumber: Norway Spiral Anomaly
+caseName: Norwegian Spiral Anomaly
 publisheddate: 2026-09-01
 image: /static/images/spiral.png
 summary: On December 9, 2009, a gigantic blue-white spiral appeared over
@@ -11,6 +11,7 @@ summary: On December 9, 2009, a gigantic blue-white spiral appeared over
   day, Russia confirmed a failed Bulava missile test from the submarine Dmitry
   Donskoy; scientific research later concluded that high-altitude, sunlit
   missile exhaust created the spectacular spiral.
+caseNumber: Norway Spiral Anomaly
 ---
 ### **Image Disclaimer**
 
