@@ -2,7 +2,7 @@
 layout: article.njk
 title: "Sodder Children Mystery Explained: What Happened on Christmas Eve 1945?"
 category: unsolved-mystery
-caseNumber: Sodder Children Mystery
+caseName: Sodder Children Mystery
 publisheddate: 2026-09-06
 image: /static/images/sodder_children_disappearance_in…_2k_202609060930-1-.jpg
 summary: >-
@@ -18,6 +18,7 @@ summary: >-
 
 
   The ultimate fate of the five children remains unresolved.
+caseNumber: Sodder Children Mystery
 ---
 ### **Image Disclaimer**
 
