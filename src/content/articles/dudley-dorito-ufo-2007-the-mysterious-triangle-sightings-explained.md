@@ -2,7 +2,7 @@
 layout: article.njk
 title: "Dudley Dorito UFO 2007: The Mysterious Triangle Sightings Explained"
 category: ufo-files
-caseNumber: Dudley Dorito UFO Mystery
+caseName: Dudley Dorito UFO
 publisheddate: 2026-09-01
 image: /static/images/ufo.png
 summary: The Dudley Dorito was a series of mysterious UFO sightings reported
@@ -12,6 +12,7 @@ summary: The Dudley Dorito was a series of mysterious UFO sightings reported
   photographs and videos, no official investigation has conclusively identified
   the object, leaving the Dudley Dorito as one of Britain's more intriguing
   unresolved UFO mysteries.
+caseNumber: Dudley Dorito UFO Mystery
 ---
 ### **Image Disclaimer**
 
