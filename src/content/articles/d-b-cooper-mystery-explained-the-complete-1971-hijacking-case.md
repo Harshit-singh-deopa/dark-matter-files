@@ -2,7 +2,7 @@
 layout: article.njk
 title: "D.B. Cooper Mystery Explained: The Complete 1971 Hijacking Case"
 category: unsolved-mystery
-caseNumber: D.B. Cooper Mystery
+caseName: "D.B. Cooper Mystery "
 publisheddate: 2026-09-06
 image: /static/images/historical_investigative_case_fi…_2k_202609060919.jpg
 summary: >-
@@ -15,6 +15,7 @@ summary: >-
   A little after 8 p.m., somewhere over southwestern Washington, Cooper lowered the aircraft's rear airstair and disappeared into the night with the ransom money and a parachute. Neither he nor most of the ransom was ever recovered. The FBI investigated the case for decades under the name NORJAK, but never established his identity or what happened after the jump. In 2016, the FBI redirected its active investigative resources away from the case while preserving the evidence for historical purposes.
 
   The mystery became even stranger in 1980, when a young boy discovered $5,800 of the ransom money buried along the Columbia River. The bills' serial numbers matched the ransom money given to Cooper nearly nine years earlier.
+caseNumber: D.B. Cooper Mystery
 ---
 ### **Image Disclaimer**
 
