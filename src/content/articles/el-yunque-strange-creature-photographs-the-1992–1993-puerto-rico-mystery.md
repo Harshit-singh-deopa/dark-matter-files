@@ -2,7 +2,7 @@
 layout: article.njk
 title: "El Yunque Strange Creature Photographs: The 1992–1993 Puerto Rico Mystery"
 category: ufo-files
-caseNumber: El Yunque Creature Mystery
+caseName: El Yunque Strange Creature
 publisheddate: 2026-08-30
 image: /static/images/chatgpt-image-sep-2-2026-08_03_11-pm-1-.png
 summary: In 1993, Joaquín Ruiz photographed a strange figure near La Mina Falls
@@ -12,6 +12,7 @@ summary: In 1993, Joaquín Ruiz photographed a strange figure near La Mina Falls
   been scientifically identified, leaving the case open to explanations ranging
   from an ordinary person or animal to a photographic artifact, hoax or unknown
   phenomenon.
+caseNumber: El Yunque Creature Mystery
 ---
 ### **Image Disclaimer**
 
