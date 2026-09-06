@@ -3,7 +3,7 @@ layout: article.njk
 title: "Nicholas Roerich UFO Sighting 1927: The Mysterious Object He Saw in
   Central Asia"
 category: ufo-files
-caseNumber: Nicholas Roerich UFO Sighting
+caseName: Nicholas Roerich UFO Sighting
 publisheddate: 2026-09-06
 image: /static/images/expedition_members_observing_aer…_2k_202609052030.jpg
 summary: >-
@@ -15,6 +15,7 @@ summary: >-
   mountains. Roerich later recorded the event in his travel writings.
 
   The expedition's lamas reportedly interpreted the sight as "The Sign of Shambhala," connecting the unexplained object to Roerich's longstanding interest in the legendary Himalayan kingdom. Later UFO researchers treated the event as a possible pre-1947 UFO sighting, while skeptics proposed conventional explanations such as a balloon or aircraft. No photograph or instrument measurement conclusively identifies the object, so its true nature remains unknown.
+caseNumber: Nicholas Roerich UFO Sighting
 ---
 ### **Image Disclaimer**
 
