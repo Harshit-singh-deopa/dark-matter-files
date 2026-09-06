@@ -2,7 +2,7 @@
 layout: article.njk
 title: "O'Hare UFO Incident 2006: The Disc Over Gate C-17 Explained"
 category: ufo-files
-caseNumber: O'Hare UFO 2006
+caseName: O'Hare UFO Incident
 publisheddate: 2026-09-01
 image: /static/images/dark-matter-files.png
 summary: The 2006 O'Hare UFO incident occurred on November 7, 2006, when
@@ -18,6 +18,7 @@ summary: The 2006 O'Hare UFO incident occurred on November 7, 2006, when
   every witness detail. With no authenticated photograph, video or physical
   evidence, the O'Hare UFO remains one of the most debated and unresolved modern
   airport UFO cases.
+caseNumber: O'Hare UFO 2006
 ---
 ### **Image Disclaimer**
 
