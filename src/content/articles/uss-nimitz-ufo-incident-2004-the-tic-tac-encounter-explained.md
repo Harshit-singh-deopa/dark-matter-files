@@ -2,7 +2,7 @@
 layout: article.njk
 title: "USS Nimitz UFO Incident 2004: The Tic Tac Encounter Explained"
 category: ufo-files
-caseNumber: Tic Tac UFO Incident
+caseName: "USS Nimitz UFO "
 publisheddate: 2026-08-31
 image: /static/images/uss_nimitz_ufo_incident_investig…_202609031504.jpg
 summary: The USS Nimitz Tic Tac UFO incident occurred in November 2004 during a
@@ -13,6 +13,7 @@ summary: The USS Nimitz Tic Tac UFO incident occurred in November 2004 during a
   in 2020. The incident has been interpreted as everything from a classified
   aircraft or sensor phenomenon to an extraterrestrial spacecraft, but the
   available evidence has never established the object's true identity.
+caseNumber: Tic Tac UFO Incident
 ---
 ### **Image Disclaimer**
 
