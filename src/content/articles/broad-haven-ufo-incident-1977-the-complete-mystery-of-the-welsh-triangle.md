@@ -2,7 +2,7 @@
 layout: article.njk
 title: "Broad Haven UFO Incident 1977: The Complete Mystery of the Welsh Triangle"
 category: ufo-files
-caseNumber: Broad Haven UFO Case 1977
+caseName: Broad Haven UFO
 publisheddate: 2026-09-02
 image: /static/images/ufo-files.png
 summary: >-
@@ -14,6 +14,7 @@ summary: >-
 
 
   Although surviving records confirm that the reports were investigated, there is no physical or photographic evidence proving an extraterrestrial spacecraft was involved. A later confession by Glyn Edwards may explain some of the silver-suited figure reports, while misidentification, military aircraft, social influence and memory effects remain possible explanations for the central sighting.
+caseNumber: Broad Haven UFO Case 1977
 ---
 ### **Image Disclaimer**
 
