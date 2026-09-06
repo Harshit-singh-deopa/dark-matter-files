@@ -2,7 +2,7 @@
 layout: article.njk
 title: "Harbour Mille UFO Incident 2010: The Mystery of the Missile-Like Objects"
 category: ufo-files
-caseNumber: Harbour Mille UFO Sighting 2010
+caseName: "Harbour Mille UFO "
 publisheddate: 2026-09-01
 image: /static/images/harbour_mille_ufo_incident_collage_202609041210.jpg
 summary: The Harbour Mille UFO Incident occurred on January 25, 2010, when
@@ -14,6 +14,7 @@ summary: The Harbour Mille UFO Incident occurred on January 25, 2010, when
   analysts rejected several missile explanations. A strong alternative
   explanation is that aircraft and their sunlit vapour trails created the
   strange appearance, but some witnesses remained unconvinced.
+caseNumber: Harbour Mille UFO Sighting 2010
 ---
 ### **Image Disclaimer**
 
