@@ -8,6 +8,30 @@
 
 const SITE_URL = "https://darkmatterfiles.com";
 
+// Returns a valid YYYY-MM-DD string, or undefined if the date is
+// missing, unparseable, older than 2000, or in the future.
+function safeLastmod(value, label) {
+  if (!value) return undefined;
+
+  const d = new Date(value);
+  if (isNaN(d.getTime())) {
+    console.warn(`[sitemap] Skipping lastmod for ${label}: unparseable date "${value}"`);
+    return undefined;
+  }
+
+  const iso = d.toISOString().split("T")[0];
+  const validFormat = /^\d{4}-\d{2}-\d{2}$/.test(iso);
+  const year = d.getUTCFullYear();
+  const inRange = year >= 2000 && d.getTime() <= Date.now();
+
+  if (!validFormat || !inRange) {
+    console.warn(`[sitemap] Skipping lastmod for ${label}: odd date "${value}" (became "${iso}")`);
+    return undefined;
+  }
+
+  return iso;
+}
+
 exports.data = {
   permalink: "/sitemap.xml",
   eleventyExcludeFromCollections: true,
@@ -33,9 +57,9 @@ exports.render = function (data) {
   for (const article of articles) {
     urls.push({
       loc: `${SITE_URL}${article.url}`,
-      lastmod: article.data.date
-        ? new Date(article.data.date).toISOString().split("T")[0]
-        : undefined,
+      // Uses an optional `lastmod:` field in the article front matter.
+      // The story `date` field is NOT used (it holds event dates, not edit dates).
+      lastmod: safeLastmod(article.data.lastmod, article.url),
       priority: "0.7",
     });
   }
