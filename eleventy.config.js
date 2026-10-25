@@ -12,6 +12,18 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "static-pages/privacy.html": "privacy.html" });
   eleventyConfig.addPassthroughCopy({ "static-pages/terms.html": "terms.html" });
 
+  // Favicon / site icons: copied to the site root so they load at /favicon.ico etc.
+  for (const icon of [
+    "favicon.ico",
+    "favicon-48x48.png",
+    "favicon-96x96.png",
+    "favicon-192x192.png",
+    "favicon-512x512.png",
+    "apple-touch-icon.png",
+  ]) {
+    eleventyConfig.addPassthroughCopy({ ["static-pages/" + icon]: icon });
+  }
+
   // Category metadata: label, slug, accent color, short description
   const categoryList = [
     {
